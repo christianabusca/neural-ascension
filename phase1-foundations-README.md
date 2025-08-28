@@ -42,12 +42,3 @@ This phase lays the groundwork for everything that follows. You’ll build pract
 ## Time & pacing
 - **8–12 weeks**, ~5–7 hrs/week. Prioritize steady practice over cramming.
 
-## Repo structure (suggested)
-```
-/phase-1-foundations
-  /notebooks
-  /data (sample)
-  /sql
-  /powerbi
-  README.md (this file)
-```
