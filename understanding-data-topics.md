@@ -57,4 +57,79 @@ This chapter also explains the distinctions among the various roles in the data 
 - **Data Analysts** transform data into understandable stories.  
 - **Data Scientists** go further by generating predictions and insights that benefit organizations.  
 - **Machine Learning Scientists** design and improve machine learning models, pushing the boundaries of traditional methods.  
-- **AI Engineers** apply these models to real-world scenarios, such as self-driving cars, AI-integrated homes, and other smart technologies.  
+- **AI Engineers** apply these models to real-world scenarios, such as self-driving cars, AI-integrated homes, and other smart technologies.
+
+# Data Sources & Data Science Workflow
+
+## Sources of Data
+
+### Company Data
+- Collected by companies for business purposes  
+- Supports data-driven decisions  
+- Examples: **Web events, survey data, customer data**
+
+### Open Data
+- **Data APIs** – request data from 3rd parties over the internet  
+- **Public Records** – shared by organizations  
+- **Statistical Offices & Government Agencies** – publish data on weather, environment, and population  
+
+---
+
+## Data Types
+
+- **Quantitative Data** – numerical, measurable  
+- **Qualitative Data** – descriptive, not measured with numbers  
+
+### Other Data Types
+- **Image Data**  
+- **Text Data**  
+- **Geospatial Data** – with location info  
+- **Network Data** – shows relationships (e.g., social connections)  
+
+---
+
+## Data Storage and Retrieval
+
+### Workflow Steps
+1. **Data Collection and Storage**  
+2. **Data Processing and Transformation**  
+3. **Data Analysis and Visualization**  
+
+### Considerations
+- **Location** – where to store (local/cloud)  
+- **Data Type** – structured vs. unstructured  
+- **Retrieval** – efficiency in accessing data  
+
+### Types of Data Storage
+- **Document Database** – stores unstructured data (emails, video, web pages); uses **NoSQL**  
+- **Relational Database** – stores structured tables; uses **SQL**  
+
+---
+
+## Data Pipelines
+- Automates data movement and storage  
+- Can be **scheduled** or **event-triggered**  
+- Monitored with alerts  
+- Critical for **big data**  
+- Maintained by **Data Engineers**  
+
+---
+
+## ETL Process
+1. **Extract** – collect data from sources (APIs, IoT, databases)  
+2. **Transform** – clean, organize, and prepare data  
+   - Join datasets  
+   - Restructure  
+   - Remove irrelevant info  
+3. **Load** – save data into storage for analysis/visualization  
+
+---
+
+### Chapter 2 (Summary) 
+- Data comes from **company sources** (surveys, customer data) and **open data** (APIs, government records).  
+- Two main data types: **Quantitative (numbers)** and **Qualitative (descriptions)**, plus other forms like **text, image, geospatial, and network data**.  
+- Data must be stored and retrieved efficiently, considering **location, type, and retrieval method**.  
+- Storage systems include **relational databases (SQL)** and **document databases (NoSQL)**.  
+- **Data pipelines** automate movement and processing to handle large-scale or continuous data.  
+- **ETL (Extract, Transform, Load)** ensures data is collected, cleaned, and prepared for analysis.  
+
