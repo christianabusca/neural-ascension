@@ -61,28 +61,28 @@ This chapter also explains the distinctions among the various roles in the data 
 
 ---
 
-# Data Sources & Data Science Workflow
+## Data Sources & Data Science Workflow
 
-## Sources of Data
+### Sources of Data
 
-### Company Data
+#### Company Data
 - Collected by companies for business purposes  
 - Supports data-driven decisions  
 - Examples: **Web events, survey data, customer data**
 
-### Open Data
+#### Open Data
 - **Data APIs** – request data from 3rd parties over the internet  
 - **Public Records** – shared by organizations  
 - **Statistical Offices & Government Agencies** – publish data on weather, environment, and population  
 
 ---
 
-## Data Types
+### Data Types
 
 - **Quantitative Data** – numerical, measurable  
 - **Qualitative Data** – descriptive, not measured with numbers  
 
-### Other Data Types
+#### Other Data Types
 - **Image Data**  
 - **Text Data**  
 - **Geospatial Data** – with location info  
@@ -90,25 +90,25 @@ This chapter also explains the distinctions among the various roles in the data 
 
 ---
 
-## Data Storage and Retrieval
+### Data Storage and Retrieval
 
-### Workflow Steps
+#### Workflow Steps
 1. **Data Collection and Storage**  
 2. **Data Processing and Transformation**  
 3. **Data Analysis and Visualization**  
 
-### Considerations
+#### Considerations
 - **Location** – where to store (local/cloud)  
 - **Data Type** – structured vs. unstructured  
 - **Retrieval** – efficiency in accessing data  
 
-### Types of Data Storage
+#### Types of Data Storage
 - **Document Database** – stores unstructured data (emails, video, web pages); uses **NoSQL**  
 - **Relational Database** – stores structured tables; uses **SQL**  
 
 ---
 
-## Data Pipelines
+### Data Pipelines
 - Automates data movement and storage  
 - Can be **scheduled** or **event-triggered**  
 - Monitored with alerts  
@@ -117,7 +117,7 @@ This chapter also explains the distinctions among the various roles in the data 
 
 ---
 
-## ETL Process
+### ETL Process
 1. **Extract** – collect data from sources (APIs, IoT, databases)  
 2. **Transform** – clean, organize, and prepare data  
    - Join datasets  
