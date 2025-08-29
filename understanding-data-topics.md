@@ -45,7 +45,7 @@ Data Science is a field that makes sense of the vast amount of information we ge
 
 ---
 
-### Chapter 1 (Summary)  
+### 📖 Chapter 1 (Summary)  
 This chapter introduces the world of Data Science, its uses, and its real-world applications.  
 
 In essence, Data Science powers many of the applications and platforms we use daily. For example, in an e-commerce app like **Shopee**, the recommendations you see are not random—they are generated through Data Science techniques.  
@@ -55,9 +55,11 @@ Data Science involves collecting, analyzing, and using data to make predictions 
 This chapter also explains the distinctions among the various roles in the data field:  
 - **Data Engineers** create pipelines and systems to make data accessible.  
 - **Data Analysts** transform data into understandable stories.  
-- **Data Scientists** go further by generating predictions and insights that benefit organizations.  
-- **Machine Learning Scientists** design and improve machine learning models, pushing the boundaries of traditional methods.  
-- **AI Engineers** apply these models to real-world scenarios, such as self-driving cars, AI-integrated homes, and other smart technologies.
+- **Data Scientists** generate predictions and insights that benefit organizations.  
+- **Machine Learning Scientists** design and improve machine learning models.  
+- **AI Engineers** apply these models to real-world scenarios, such as self-driving cars and smart technologies.  
+
+---
 
 # Data Sources & Data Science Workflow
 
@@ -125,11 +127,10 @@ This chapter also explains the distinctions among the various roles in the data 
 
 ---
 
-### Chapter 2 (Summary) 
+### 📖 Chapter 2 (Summary) 
 - Data comes from **company sources** (surveys, customer data) and **open data** (APIs, government records).  
 - Two main data types: **Quantitative (numbers)** and **Qualitative (descriptions)**, plus other forms like **text, image, geospatial, and network data**.  
 - Data must be stored and retrieved efficiently, considering **location, type, and retrieval method**.  
 - Storage systems include **relational databases (SQL)** and **document databases (NoSQL)**.  
 - **Data pipelines** automate movement and processing to handle large-scale or continuous data.  
 - **ETL (Extract, Transform, Load)** ensures data is collected, cleaned, and prepared for analysis.  
-
