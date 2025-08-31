@@ -3,311 +3,215 @@
 ---
 
 ## Overview of Oracle Database Deployment Options
-
-<details>
-<summary>Deployment Options</summary>
-
-| Deployment Option | Description |
-|------------------|-------------|
-| **On-premise** | Customer manages everything (infrastructure + database) |
-| **Database Cloud Services (DBCS)** | Co-managed: Oracle manages infrastructure, customer manages database |
-| **Autonomous Database (ADB)** | Fully managed: Oracle manages both infrastructure and database |
-| **Exadata Cloud Service** | Available as deployment option |
-| **Third-party Cloud** | Also available |
-
-</details>
+- **On-premise**: Customer manages everything (infrastructure + database)  
+- **Database Cloud Services (DBCS)**: Co-managed service - Oracle manages infrastructure, customer manages database  
+- **Autonomous Database (ADB)**: Fully managed service - Oracle manages both infrastructure and database  
+- **Exadata Cloud Service**: Available as deployment option  
+- **Third-party cloud**: Also available  
 
 ---
 
 ## Autonomous Database (ADB) - Core Concept
 
-<details>
-<summary>What is ADB?</summary>
-
-- Fully managed service: Oracle handles all infrastructure and database management  
-- Eliminates tedious DBA chores & implements best practices automatically  
+### What is ADB?
+- Fully managed service - Oracle handles all infrastructure and database management  
+- Eliminates tedious DBA chores and implements best practices automatically  
 - Significantly lower cost compared to traditional deployments  
 
-</details>
-
-<details>
-<summary>When to Use Co-managed vs Fully Managed</summary>
-
-**Co-managed (DBCS):**  
-- Customers not yet on Oracle 19c  
-- Running packaged applications like E-Business Suite  
-
-**Fully managed (ADB):**  
-- Recommended for all other use cases  
-
-</details>
+### When to Use Co-managed vs Fully Managed
+- **Co-managed (DBCS) recommended for:**
+  - Customers not yet on Oracle 19c  
+  - Running packaged applications like E-Business Suite  
+- **Fully managed (ADB) recommended for:** all other use cases  
 
 ---
 
-## Cost Analysis & TCO Studies
+## Cost Analysis & TCO Studies  
 
-<details>
-<summary>Wikibon Research Findings</summary>
+### Wikibon Research Findings
+- Compared costs of running Oracle databases across different platforms:  
+  - **On-premise**: Baseline cost  
+  - **Amazon RDS**: Same cost as on-prem OR 50% higher (with disaster recovery/multizone)  
+  - **Autonomous Transaction Processing (ATP)**: Almost 50% less than on-premise cost  
 
-| Platform | Cost Comparison |
-|----------|----------------|
-| On-premise | Baseline cost |
-| Amazon RDS | Same as on-prem OR 50% higher (with DR/multizone) |
-| Autonomous Transaction Processing (ATP) | Almost 50% LESS than on-premise cost |
-
-**Key Benefits of ADB**  
-- Lower TCO through automation  
-- Higher productivity & less downtime  
-- Eliminates manual DBA tasks  
+### Key Cost Benefits of ADB
+- Lower total cost of ownership through automation  
+- Higher productivity and less downtime  
+- Elimination of manual DBA tasks  
 - Best-practice configurations included  
 
-</details>
-
 ---
 
-## Migration Process to ADB
+## Migration Process to ADB  
 
-<details>
-<summary>Step 1: Assessment Tool</summary>
-
+### Step 1: Assessment Tool
 - Oracle provides analysis tool for current on-premise databases  
 - Identifies unsupported features/configurations:  
   - Pre-19c releases  
   - Database tables in system/sys schema  
-  - Rare edge cases  
+  - Other rare edge cases  
 
-</details>
+### Step 2: Data Migration (Manual Process)
+1. Use Data Pump export to extract data from on-premise database  
+2. Upload exported data to Oracle Cloud Object Store  
+3. Use Data Pump import to load data into ADB  
+4. Migration complete  
 
-<details>
-<summary>Step 2: Data Migration (Manual)</summary>
-
-1. Use **Data Pump export** from on-premise DB  
-2. Upload exported data to **Oracle Cloud Object Store**  
-3. Use **Data Pump import** to load data into ADB  
-
-</details>
-
-<details>
-<summary>Step 3: Database Migration Service (Automated)</summary>
-
-- Point to source database (on-premise or cloud)  
-- Oracle handles the entire migration automatically  
+### Step 3: Database Migration Service (Automated)
+- New automated service available  
+- Point to source database (on-premise or other cloud)  
+- Oracle handles entire migration automatically  
 - Eliminates manual steps from Step 2  
 
-**Existing Tuning Preservation:**  
-- DBAs can preserve existing tuning & indexes  
-- No requirement to use ADB autotuning  
-- Existing optimizations maintained  
-
-</details>
+### Existing Tuning Preservation
+- DBAs can preserve existing tuning and indexes if desired  
+- Not required to use ADB's autotuning capabilities  
 
 ---
 
-## Application Certification & Support
+## Application Certification & Support  
 
-<details>
-<summary>Oracle Packaged Applications</summary>
-
+### Oracle Packaged Applications
 - **Already Certified:** JD Edwards, PeopleSoft, Siebel  
 - **In Progress:** E-Business Suite (EBS) - expected next year  
 
-</details>
+### Fully Managed Application Stack
+- Oracle manages **both middle tier and database tier**  
+- Database moves to ADB, Oracle handles the rest  
 
-<details>
-<summary>Fully Managed Application Stack</summary>
+### Third-Party Applications
+Certified partners include:  
+- MESTEC, MineSense, NEC, Zebra  
 
-- Oracle manages middle tier & database tier  
-- Database moves to Autonomous Database  
-
-</details>
-
-<details>
-<summary>Third-Party Applications & Analytics Tools</summary>
-
-- **Certified Partners:** MESTEC, MineSense, NEC, Zebra  
-- **Analytics Tools Certified:** Tableau, BusinessObjects, others  
-- Check presentation link for full tech stack certifications  
-
-</details>
+### Analytics Tools Integration
+Certified tools:  
+- Tableau, BusinessObjects, others  
+- Oracle provides link for full tech stack certification  
 
 ---
 
-## Customer Success Stories
+## Customer Success Stories  
 
-<details>
-<summary>TaylorMade Golf</summary>
+### TaylorMade Golf
+- Migrated large Oracle data warehouse to ADW  
+- Completed a couple years ago  
+- **Results:**  
+  - Lower cost of ownership  
+  - Better performance  
+  - ADW vision realized  
 
-- Migrated large data warehouse from on-premise to **ADW**  
-- Results: Lower cost, better performance, realized ADW vision  
-
-</details>
-
-<details>
-<summary>Wilson Truck Lines</summary>
-
+### Wilson Truck Lines
 - Used **ADB + APEX**  
-- Redeveloped application in **2 days** vs 3 months previously (**45x productivity**)  
-- Outcome: High performance & interactive response  
-
-</details>
+- Previous: Amazon traditional coding (3 months)  
+- Redeveloped with APEX in 2 days (**45x productivity improvement**)  
+- Outcome: Great performance + interactive response times  
 
 ---
 
-## APEX (Application Express) - Low-Code Platform
+## APEX (Application Express) - Low-Code Platform  
 
-<details>
-<summary>Overview</summary>
+### What is APEX?
+- Oracle's low-code tool for building data-driven applications  
+- Backend: Oracle Database  
+- Productivity: 10x faster (often 40–50x faster in practice)  
 
-- Oracle's low-code tool for data-driven applications  
-- Productivity: Estimated **10x faster** than traditional coding (often 40-50x)  
-- Default: Use APEX, traditional coding as exception  
-
-</details>
-
-<details>
-<summary>Capabilities & Automation</summary>
-
-**Built-in Features:**  
+### Built-in Features
 - Forms & reporting tools  
-- Faceted search  
-- E-commerce filtering  
+- Faceted search + e-commerce-style filters  
 - Easy UI customization  
 
-**Automation Benefits:**  
-- Fully automated middle tier  
-- No connection or state management required  
+### Automation Benefits
+- Middle tier fully automated  
+- No connection or state management needed  
 - Automatic data type mapping  
-- No 3GL coding needed  
+- No 3GL programming required  
 
-</details>
+### Usage Statistics
+- Millions of APEX apps in production  
+- ~3,000 new apps built daily  
+- Includes publicly available live labs  
+- Recommendation: Use low-code by default, traditional coding as exception  
 
-<details>
-<summary>ADB for APEX</summary>
-
+### Autonomous Database for APEX
 - Dedicated ADB version optimized for APEX workloads  
 
-</details>
-
 ---
 
-## Advanced Analytics Capabilities
+## Advanced Analytics Capabilities  
 
-<details>
-<summary>Self-Service & Advanced Analytics</summary>
+### Beyond Traditional Data Warehouse
+- Self-service drag-and-drop data loading  
+- Visual ETL tools  
+- No engineering required for basic ops  
 
-- Drag-and-drop data loading  
-- ETL visual transformation tools  
-- Graph & Spatial analytics  
-- Machine Learning with **AutoML**  
+### Advanced Analytics
+- Graph & spatial analytics  
+- Machine learning (ML) capabilities  
+- AutoML: automated ML model creation  
 
-**AutoML Feature:**  
-- Input dataset & target feature  
-- Oracle automatically generates ML model  
-
-**Data Integration:**  
-- Build/manage data lakes  
+### Data Integration
+- Data lakes management  
 - Multi-cloud integration  
-- Massively Parallel Processing (MPP)  
-- Supports all popular analytics tools  
+- Massively parallel processing (MPP)  
+- Third-party analytics tool support  
 
-**Example:** Seattle Sounders Football Club  
-- Uses ADW for sports stats analysis  
-- ML models optimize goal scoring  
-- Pay-per-use model lowers costs  
-
-</details>
-
----
-
-## Business Incentives & Support Programs
-
-<details>
-<summary>Bring Your Own License (BYOL)</summary>
-
-- Migrate existing Oracle licenses to **OCI**  
-
-</details>
-
-<details>
-<summary>Cloud Lift Service</summary>
-
-- Free migration assistance by Oracle cloud engineering team  
-
-</details>
-
-<details>
-<summary>Support Rewards Program</summary>
-
-- $0.25–$0.33 reward per $1 spent on OCI  
-- Can reduce on-prem support costs  
-
-</details>
+### Example: Seattle Sounders FC
+- Using ADW for sports statistics  
+- ML models to optimize goal-scoring strategies  
+- Pay-per-use lowered costs  
+- Similar tech used by English Premier League  
 
 ---
 
-## Getting Started - Free Resources
+## Business Incentives & Support Programs  
 
-<details>
-<summary>Always Free ADB</summary>
+### Bring Your Own License (BYOL)
+- Existing Oracle DB licenses can be applied to OCI  
 
+### Cloud Lift Service
+- Free migration assistance by global engineering team  
+
+### Support Rewards Program
+- $0.25–$0.33 reward for every $1 spent on OCI  
+- Rewards reduce Oracle support bills  
+
+---
+
+## Getting Started - Free Resources  
+
+### Always Free Autonomous Database Service
 - Hands-on trial of ADB  
-- Completely free  
+- Cost: Free  
 
-</details>
-
-<details>
-<summary>Live Labs</summary>
-
-- Exercises on **developer.oracle.com/livelabs**  
-- Runs on Always Free ADB  
-- Practical, hands-on learning  
-
-</details>
+### Live Labs
+- [developer.oracle.com/livelabs](https://developer.oracle.com/livelabs)  
+- Tutorials + exercises running on Always Free ADB  
 
 ---
 
-## Key Summary Points
+## Key Summary Points  
 
-<details>
-<summary>ADB Value Proposition</summary>
+### ADB Value Proposition
+- Fully managed infra + database  
+- Reduced costs via automation  
+- Security, availability, performance best practices  
+- Automatic patching + tuning  
+- Eliminates common errors  
 
-- Fully managed infrastructure & database  
-- Cost reduction via automation & best practices  
-- Automatic patching & tuning  
-- Eliminates common on-prem configuration errors  
+### Migration Strategy
+1. **Assessment** – analyze with Oracle tool  
+2. **Migration** – manual (Data Pump) or automated (Migration Service)  
+3. **Modernization** – move to OCI  
+4. **Optimization** – agility + lower cost  
 
-</details>
+### Development Approach
+- **Default:** Low-code (APEX)  
+- **Exception:** Traditional coding  
+- Productivity boost: 10–50x faster  
+- Seamless with ADB  
 
-<details>
-<summary>Migration Strategy</summary>
-
-- Assessment: Oracle analysis tool  
-- Migration: Manual (Data Pump) or Automated (Migration Service)  
-- Modernization: Move to cloud  
-- Optimization: Agility + lower cost  
-
-</details>
-
-<details>
-<summary>Development Approach</summary>
-
-- Default: Low-code tools (APEX)  
-- Exception: Traditional coding  
-- Productivity: 10–50x improvement  
-- Seamless integration with ADB  
-
-</details>
-
-<details>
-<summary>Target Audience</summary>
-
+### Target Audience
 - Oracle 19c customers ready for cloud migration  
-- Organizations seeking lower TCO & better performance  
-- Development teams building database-driven apps  
-- Companies modernizing data infrastructure  
-
-</details>
-
----
-
-*End of Notes*
+- Organizations seeking lower TCO + better performance  
+- Dev teams building DB-driven apps  
+- Companies modernizing infrastructure  
