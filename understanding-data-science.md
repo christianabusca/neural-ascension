@@ -1,4 +1,4 @@
-# Understanding Data Topics  
+# Understanding Data Science 
 
 ## Understanding Data Science  
 
