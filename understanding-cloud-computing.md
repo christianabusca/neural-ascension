@@ -520,3 +520,249 @@ This chapter covers three critical aspects of cloud computing: deployment models
 The cloud revolution transforms how organizations operate, requiring new skills, compliance strategies, and deployment approaches while creating unprecedented career opportunities in the technology sector.
 
 ---
+
+## Cloud Computing Providers
+
+### Market Landscape Fundamentals
+#### Key Players & Market Share (End of 2023)
+- **AWS**: 31% market share (market leader)
+- **Microsoft Azure**: 24% market share
+- **Google Cloud**: 11% market share
+
+---
+
+### What Drives Cloud Adoption?
+Cloud services enable companies to become more agile, efficient, and innovative while reducing costs and focusing on core business operations.
+- Market data based on PaaS, IaaS, and hosted private cloud services.
+- Cloud computing landscape constantly evolves with changing products, services, and customer needs.
+
+---
+
+### Provider Selection Considerations
+**Key Factors to Evaluate:**
+- **Current infrastructure costs**
+- **Data center operation and hardware management costs**
+- **Application migration/rebuilding costs**
+- **Cloud specialist workforce requirements**
+- **Company and customer benefits**
+- **Migration risks**
+
+---
+
+## Amazon Web Services (AWS)
+
+### Market Position
+**AWS Overview:**
+- **Launched**: 2006 (first mover advantage)
+- **Services**: 175+ services across computing, storage, analytics, security, enterprise applications, and machine learning
+- **Market share**: 31%
+
+---
+
+### Core AWS Services
+#### Professional Cloud Services
+**S3 (Simple Storage Service)**
+- File storage solution
+
+**EC2 (Elastic Compute Cloud)**
+- Computation services
+
+**RDS (Relational Database Service)**
+- Database management
+
+#### Data Services
+**Redshift**
+- Petabyte-scale data warehouse
+
+**Kinesis**
+- Real-time data and analytics
+
+**SageMaker**
+- Machine learning platform for predictive analytics
+
+---
+
+### Notable AWS Customers
+- **Disney**
+- **Verizon**
+- **Deloitte**
+
+---
+
+### AWS Case Study: NerdWallet
+#### Challenge
+- Optimize deployment cost and reduce time from concept to production
+
+#### Solution
+- Integrated Amazon SageMaker with existing AWS compute and container services
+
+#### Results
+- **Model deployment** reduced from months to days
+- **75% reduction** in training costs (on-demand vs continuous instances)
+- **Improved data science** engineering practices
+
+---
+
+## Microsoft Azure
+
+### Market Position
+**Azure Overview:**
+- **Built on existing Microsoft software** (Office, Windows Server, SQL Server)
+- **Benefits from customer loyalty** and tight integration
+- **Market share**: 24%
+
+---
+
+### Core Azure Services
+#### Cloud Services
+**Azure Blob Storage**
+- File storage solution
+
+**Azure Virtual Machines**
+- Computation services
+
+**Azure SQL Database**
+- Database management
+
+#### Key Product
+**Microsoft Fabric**
+- SaaS solution integrating data movement, data science, real-time analytics, and business intelligence
+
+#### Data Services
+**Data Lake Storage**
+- Pre-processing data storage
+
+**Stream Analytics**
+- Real-time analytics
+
+**Machine Learning**
+- Model training and deployment
+
+---
+
+### Notable Azure Customers
+- **Siemens**
+- **The World Bank**
+- **L'Oréal**
+
+---
+
+### Azure Case Study: The Ottawa Hospital
+#### Challenge
+- Revamp electronic health records system for 1.2M patients across multiple sites
+
+#### Solution
+- Hybrid approach - on-premises primary storage with Azure disaster recovery
+
+#### Azure Services Used
+- **Infrastructure as a Service** for scalable, secure environment
+- **Azure Storage** for medical image data
+- **Azure Site Recovery** for automated recovery processes
+
+#### Results
+- **700TB data backup** capability
+- **5,300 concurrent user** support
+- **50% cost savings** on disaster recovery
+- **Full compliance** with Canadian data privacy laws
+- **Implementation completed** in under 3 months
+
+---
+
+## Google Cloud
+
+### Market Position
+**Google Cloud Overview:**
+- **Strategy**: Multi-cloud and hybrid solutions
+- **Google Cloud Anthos** (2019): Manages workloads across multiple cloud providers
+- **Market share**: 11%
+
+---
+
+### Core Google Cloud Services
+#### Cloud Services
+**Google Cloud Storage**
+- File storage solution
+
+**Google Cloud Compute Engine**
+- Computation services
+
+**Google Cloud SQL**
+- Database management
+
+#### Data Services
+**BigQuery**
+- Large-scale data warehousing and analysis
+
+**Dataflow**
+- Managed streaming analytics
+
+**AutoML**
+- Machine learning tools and services
+
+---
+
+### Notable Google Cloud Customers
+- **HSBC**
+- **PayPal**
+- **Vodafone**
+
+---
+
+### Google Cloud Case Study: Lush Cosmetics
+#### Challenge
+- Website outages during Boxing Day peak demand (12 transactions/second limit)
+
+#### Solution
+- Complete migration to Google Cloud during December (busiest month)
+
+#### Migration Scope
+- **17 websites**
+- **Mobile apps and e-commerce platforms**
+- **Retail systems**
+- **Customer and product data**
+
+#### Results
+- **Zero outages** during Boxing Day
+- **40% reduction** in hosting costs
+- **Enabled new innovations** (image recognition app for product identification)
+- **Used Google Cloud Compute Engine** and Google Cloud SQL
+
+---
+
+### Service Comparison Across Providers
+
+| Service Category | AWS | Microsoft Azure | Google Cloud |
+|------------------|-----|-----------------|--------------|
+| **File Storage** | S3 (Simple Storage Service) | Azure Blob Storage | Google Cloud Storage |
+| **Computation** | EC2 (Elastic Compute Cloud) | Azure Virtual Machines | Google Cloud Compute Engine |
+| **Databases** | RDS (Relational Database Service) | Azure SQL Database | Google Cloud SQL |
+| **Data Warehouse** | Redshift | Data Lake Storage | BigQuery |
+| **Real-time Analytics** | Kinesis | Stream Analytics | Dataflow |
+| **Machine Learning** | SageMaker | Machine Learning | AutoML |
+
+---
+
+### Market Share Distribution
+**The Big Three Dominate:**
+- **AWS**: 31% (Market Leader)
+- **Microsoft Azure**: 24% (Strong Enterprise Integration)
+- **Google Cloud**: 11% (Multi-cloud Strategy)
+- **Others**: 34% (Combined smaller providers)
+
+---
+
+### 📖 Chapter 3 (Summary)
+This chapter provides a comprehensive overview of the three major cloud computing providers and their market positions.
+
+**Market Landscape** shows AWS leading with 31% market share, followed by Microsoft Azure at 24% and Google Cloud at 11%. The cloud computing market continues to evolve rapidly, with companies choosing providers based on factors including current infrastructure costs, migration complexity, workforce requirements, and specific business benefits.
+
+**Amazon Web Services (AWS)** maintains market leadership through its first-mover advantage since 2006 and comprehensive service portfolio of 175+ offerings. Core services include S3 for storage, EC2 for computation, and RDS for databases, while specialized data services like Redshift, Kinesis, and SageMaker serve advanced analytics and machine learning needs. The NerdWallet case study demonstrates AWS's ability to reduce model deployment time from months to days while cutting training costs by 75%.
+
+**Microsoft Azure** leverages existing Microsoft software relationships and enterprise integration advantages. Its core services mirror AWS functionality with Azure Blob Storage, Virtual Machines, and SQL Database, while Microsoft Fabric provides integrated SaaS solutions. The Ottawa Hospital case study showcases Azure's hybrid capabilities, achieving 700TB backup capacity, supporting 5,300 concurrent users, and delivering 50% cost savings on disaster recovery while maintaining regulatory compliance.
+
+**Google Cloud** differentiates itself through multi-cloud and hybrid strategies, particularly with Google Cloud Anthos for cross-provider workload management. Its services include Cloud Storage, Compute Engine, and Cloud SQL for core functionality, plus BigQuery, Dataflow, and AutoML for advanced data analytics. The Lush Cosmetics case study illustrates Google Cloud's ability to handle peak demand, eliminating Boxing Day outages while reducing hosting costs by 40% and enabling innovative features.
+
+All three providers offer similar core services but differentiate through specialized tools, integration capabilities, and strategic approaches to multi-cloud environments. Provider selection should align with specific organizational needs, existing technology investments, and long-term strategic goals.
+
+---
+
