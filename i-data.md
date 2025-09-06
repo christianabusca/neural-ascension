@@ -763,6 +763,72 @@ This chapter focuses on the critical skills needed to effectively communicate da
 
 ---
 
+## Basic Visualization Types
+### Foundation for Visualization Exploration
+**Objective**: Understanding when and why to use basic visualizations
+**Core types covered**: Bar charts, histograms, and scatter plots
+**Purpose**: Provide foundation for exploring the wider world of visualizations
+
+### Bar Charts
+#### Characteristics and Purpose
+- **Visual similarity**: Uses bars of different heights to display information
+- **Data type**: Categorical data (labels for data points)
+- **Examples of categorical data**:
+  - Museum visitor types: Free, paid, member, premium
+  - Country of origin
+  - Payment methods
+- **Display method**: Bar heights based on summary information for each category
+- **Most common summary**: Frequency or count
+
+#### Practical Applications
+**Museum Admissions Example:**
+- **Dataset**: 20 museum visitors
+- **Breakdown**: 10 paid, 2 free, 5 members, 3 premium visitors
+- **Benefit**: Simple but useful for getting admission breakdown at a glance
+
+**Average Sale Price Example:**
+- **Display**: Average sale price by payment method
+- **Insight generation**: Charts inspire new avenues of discovery
+- **Follow-up questions**: Even if contactless payments are highest average, how often are they used?
+
+### Histograms
+#### Key Differences from Bar Charts
+- **Visual similarity**: Also uses bars of different heights
+- **Data type difference**: Numerical data instead of categorical
+- **Structure**: Data broken into bins of equal size
+- **Height meaning**: Represents frequency of data points within each bin range
+- **Visual distinction**: No intentional gaps between bars (gaps indicate no data in that bin)
+
+#### Practical Application
+**Museum Gift Shop Sales Example:**
+- **Dataset**: 11 sales from gift shop
+- **Bin width**: $20 increments
+- **Results**: 
+  - 5 sales between $0-$20
+  - 3 sales between $20-$40
+  - Continued pattern for remaining bins
+- **Interpretation**: Gaps in histogram indicate no sales in that price range
+
+### Scatter Plots
+#### Purpose and Structure
+- **Goal**: Show relationship between two numerical variables
+- **Method**: Points arranged using one variable for horizontal position, other for vertical
+- **Benefit**: Detect relationships within dataset more easily
+
+#### Practical Application
+**TV Watching vs. Math Test Scores Example:**
+- **Variables**: Television watching time vs. student math test scores
+- **Relationship detected**: Strong negative correlation
+- **Pattern**: As TV watching time increases, exam scores decrease
+- **Visualization power**: Easy to see entire dataset relationship at once, versus parsing individual data points
+
+#### Advantages of Visualization
+- **Efficiency**: Drawing conclusions from raw data would require significant effort
+- **Comprehensive view**: Can analyze entire dataset simultaneously
+- **Pattern recognition**: Relationships become immediately apparent through visual representation
+
+---
+
 ### 📖 Chapter 5 (Summary)
 This chapter emphasizes the critical role of visualization in data communication and provides practical guidance for creating effective visual representations.
 
@@ -776,4 +842,3 @@ This chapter emphasizes the critical role of visualization in data communication
 - **Summary statistics limitation**: Identical statistical summaries can hide completely different data patterns
 
 **Main Takeaway**: Effective data visualization is both an art and a science that requires balancing simplicity with information richness, understanding audience needs, and maintaining flexibility in approach. The goal is to create visual representations that enable quick comprehension of complex data while revealing insights that might be hidden in raw numbers or simple statistical summaries. Success comes from choosing the right visualization type for your specific audience and objectives while following principles that enhance rather than hinder understanding.
-
