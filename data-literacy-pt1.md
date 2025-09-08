@@ -1031,3 +1031,221 @@ This chapter introduces data storytelling as the culmination of effective data c
 - **Research-backed effectiveness**: Studies show stories double donation rates and improve retention by over 10x compared to statistics alone
 
 **Main Takeaway**: Data storytelling represents the evolution from simply presenting data to creating compelling narratives that drive action. Success requires combining strong analytical insights with audience understanding, effective visualization, clear context, and persuasive narrative. The collaborative team approach leverages diverse skills to create stories that not only inform but inspire audiences to act on data-driven insights. In our data-rich world, the ability to transform complex analysis into accessible, memorable, and actionable stories is what separates good data practitioners from truly impactful ones.
+
+## Data Literacy Fundamentals
+### Why Data Literacy is Essential
+#### Living in the Data Era
+- **Reality shift**: Just as we adapted to computers and the Internet, we now live surrounded by data
+- **Adaptation necessity**: Must learn to interact with data to keep up with changing world
+- **Universal impact**: Data affects everyone, regardless of technical background
+
+#### Data Literacy as a Life Skill
+- **Core challenge**: Confronted with complex information that needs transformation into valuable insights
+- **Definition**: Understanding how data can be combined and connected to create value
+- **Practical application**: Learning to navigate information complexity in daily life
+
+#### Beyond Technical Jobs
+- **Misconception**: Data literacy isn't about coding or mathematical analysis
+- **True focus**: Critical thinking about data, understanding relevance, context, potential, and limits
+- **Car analogy**: Like driving - you don't need to know engine mechanics, but must understand brakes, gas, traffic signs, and operational limits
+- **Universal relevance**: Essential skill even for non-data professionals
+
+### The Three Components of Data Literacy
+#### Official Definition
+- **Complete definition**: The ability to read, work with, analyze, and communicate insights with data
+- **Three main components**: Reading data, working with and analyzing data, communicating insights with data
+
+#### 1. Reading Data
+**Core Activities:**
+- Identifying relevant data sources
+- Collecting necessary data
+- Managing collected or available data
+- **Tool focus**: Databases for storing, organizing, and sharing data
+
+#### 2. Working with and Analyzing Data
+**Primary function**: Transforming data into insights
+**Main tools**: Data analytics approaches
+- Descriptive analytics
+- Predictive analytics
+**Outcome**: Converting raw information into meaningful understanding
+
+#### 3. Communicating Insights with Data
+**Ultimate purpose**: Making insights actionable and valuable
+**Key objectives**:
+- Demonstrating insights and their value
+- Defining possible actions based on gained insights
+**Primary tools**:
+- Visualizations
+- Storytelling techniques and structures to enhance communication
+
+---
+
+## From Data to Insights: The DIKW Framework
+### Understanding the Value Pyramid
+#### The DIKW Framework Structure
+- **Purpose**: Understanding how to extract maximum value from data
+- **Progression**: Data → Information → Knowledge → Wisdom
+- **Value principle**: Higher levels provide greater value
+- **Journey**: From raw observations to actionable wisdom
+
+### The Four Levels Explained
+#### 1. Data Level
+**Characteristics:**
+- Raw observations or measurements
+- No inherent meaning
+- Unorganized and unprocessed
+- **Weather example**: 15°C temperature, dark clouds, falling raindrops
+- **Status**: Individual facts without connections
+
+#### 2. Information Level
+**Transformation**: Raw data placed into context
+**Process methods**:
+- Organizing data
+- Aggregating data
+- **Weather example**: Temperature dropped first, then clouds formed, then rain fell
+- **Achievement**: Structured sequence of events
+
+#### 3. Knowledge Level
+**Advancement**: Combining information to make connections and gain meaning
+**Typical activities**:
+- Detecting patterns
+- Making generalizations
+- Creating predictions
+- **Weather example**: Understanding causal connections between temperature, clouds, and rain to predict future weather
+- **Value**: Predictive capability
+
+#### 4. Wisdom Level
+**Ultimate goal**: Applied knowledge or knowledge in action
+**Characteristics**:
+- Enables proactive behavior
+- Combines knowledge logically
+- Determines optimal courses of action
+- **Weather example**: Knowing when to bring umbrella based on weather predictions
+- **Reality**: Theoretical ideal that we approach but rarely achieve perfectly
+
+### The Path to Practical Wisdom
+#### Adding Value at Each Step
+- **Data to Information**: Context is added
+- **Information to Knowledge**: Meaning is added
+- **Knowledge to Wisdom**: Perfect, complete understanding (theoretical ideal)
+
+#### The Wisdom Challenge
+**Practical limitations**:
+- Can we perfectly predict rain from just temperature and clouds?
+- Can we measure all influencing factors?
+- How accurate are long-term predictions?
+
+#### Insights as the Solution
+**Practical approach**: Insights serve as achievable "gold nuggets" of wisdom
+**Progressive improvement**:
+- Weather example progression:
+  - Basic insight: Temperature and clouds predict rain (few hours ahead)
+  - Better insight: Humidity better predictor than temperature (improved accuracy)
+  - Advanced insight: Atmospheric pressure areas enable multi-day predictions
+- **Cumulative effect**: Each insight brings us closer to complete understanding
+- **Realistic goal**: Building comprehensive picture through accumulated insights
+
+---
+
+## Data-Driven Decision Making
+### Definition and Purpose
+#### Core Definition
+- **Process**: Using data to make informed decisions about specific problems and acting upon them
+- **Applications**:
+  - Optimizing performance
+  - Gaining better understanding
+  - Protecting against risks
+  - Determining best courses of action
+
+### Debunking Common Misconceptions
+#### Three Major Myths
+**Myth 1: Only for large organizations**
+- **Reality**: Can start small with any size organization
+- **Approach**: Scalable implementation possible
+
+**Myth 2: Only data team responsibility**
+- **Reality**: Enriched by including people with different backgrounds
+- **Benefit**: Diverse perspectives improve data-driven processes
+
+**Myth 3: Always the best option**
+- **Reality**: Data-driven decision making is a strategy with advantages and disadvantages
+- **Balance**: Not the only or always optimal approach
+
+### The Five-Step Data-Driven Process
+#### Universal Framework
+**Step 1: Define Problem Statement**
+- Most critical step
+- Guides entire process
+- Foundation for all subsequent steps
+
+**Step 2: Collect Necessary Data**
+- Guided by problem statement
+- Targeted data gathering
+- Resource-conscious collection
+
+**Step 3: Perform Data Analysis**
+- Transform data into insights
+- Apply appropriate analytical techniques
+- Generate meaningful findings
+
+**Step 4: Communicate Results**
+- Share insights effectively
+- Make findings accessible
+- Prepare for action
+
+**Step 5: Take Action and Reflect**
+- Implement insights
+- Monitor outcomes
+- Learn from process for future improvement
+
+### Crafting Effective Problem Statements
+#### Fundamental Purpose
+- **Core question**: "What is the problem you want to solve?"
+- **Guidance function**: Directs data collection, analysis techniques, and result application
+- **Scope**: Can address issues, create impact, or answer questions
+
+#### Problem Categories
+**Four main types**:
+1. **Describing**: Current state of organization or process
+2. **Diagnosing**: Identifying causes of issues
+3. **Detecting**: Finding anomalies or unusual patterns
+4. **Predicting**: Forecasting future events or outcomes
+
+#### Three Guiding Questions
+**Framework for development**:
+1. "What is the current situation?"
+2. "What do we need to know?"
+3. "Where do we want to be?"
+
+#### Characteristics of Good Problem Statements
+**Three essential qualities**:
+- **Clearly defined**: Be specific about the problem
+- **Actionable**: Enable specific actions based on eventual answers
+- **Realistic**: Solvable with available resources
+- **Starting point**: Begin with specific question
+
+### Real-World Examples
+#### Example 1: Customer Satisfaction
+**Starting question**: "How can we improve customer satisfaction?"
+**Problem statement**: "Customer satisfaction is currently under our target. We need to know the main reasons for a negative score so we can take measures to improve customer satisfaction."
+**Key elements**: Current state, knowledge gap, desired outcome
+
+#### Example 2: Student Performance
+**Starting question**: "Why are average math scores of students in decline for the last three years?"
+**Problem statement**: "The last three years math scores of students have declined. We need to know what the main causes are of this decline so we can take measures to counter it."
+**Key elements**: Trend identification, causal investigation, corrective action planning
+
+---
+
+### 📖 Chapter 7 (Summary)
+This chapter establishes data literacy as a fundamental life skill essential for navigating our data-rich world, emphasizing practical application over technical complexity.
+
+**Key Concepts Covered:**
+- **Data literacy definition**: The ability to read, work with, analyze, and communicate insights with data through three core components
+- **Universal relevance**: Essential skill for all professionals, not just technical roles, comparable to learning to drive a car
+- **DIKW framework**: Progressive value creation from raw data to information, knowledge, and ultimately wisdom through insights
+- **Practical wisdom**: Insights serve as achievable manifestations of wisdom that accumulate over time to build comprehensive understanding
+- **Data-driven decision making**: Five-step process beginning with well-crafted problem statements that guide the entire analytical journey
+- **Problem statement mastery**: Critical foundation requiring clarity, actionability, and realistic scope to ensure successful outcomes
+
+**Main Takeaway**: Data literacy represents a fundamental shift in how we navigate the modern world. Like learning to drive, it's not about understanding every technical detail but rather developing the critical thinking skills to interact effectively with data. The journey from raw data to actionable insights follows a predictable path, with each level adding context, meaning, and ultimately practical value. Success depends on starting with clear, well-defined problems and systematically building insights that guide informed decision-making. In our data-saturated environment, the ability to read, analyze, and communicate with data isn't just a professional advantage—it's a life skill that enables us to make better decisions, understand our world more clearly, and take meaningful action based on evidence rather than intuition alone.
