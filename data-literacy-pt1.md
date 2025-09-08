@@ -1,4 +1,4 @@
-# i-data
+# Data Literacy Part I
 
 ## Data Basics
 ### Understanding Data
