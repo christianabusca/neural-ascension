@@ -1,4 +1,4 @@
-# DATA LITERACY PART III
+# Data Literacy Part III
 
 ## Forming Analytical Questions and Value Creation
 ### The Value from Analytics Workflow
