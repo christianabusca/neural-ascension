@@ -439,11 +439,12 @@ This chapter elevates Excel usage from basic data manipulation to professional d
 ### What-If Analysis and Scenario Planning
 #### Understanding Variable Relationships
 **Independent vs Dependent Variables:**
-- **Independent variables**: Derive value from outside the model (inputs)
-- **Dependent variables**: Derive value from model, rely on independent variables (outputs)
-- **Example**: Taxes owed = f(total income, deductions, tax rate)
-  - Taxes owed = dependent variable
-  - Income, deductions, tax rate = independent variables
+- **Independent variables**: Derive value from outside the model (inputs) - they are the inputs of the analysis
+- **Dependent variables**: Derive value from model and rely on inputs - the observed output of the analysis
+- **Example**: Taxes Owed = (Total Income - Deductions) × Tax Rate
+  - Taxes owed = dependent variable (output)
+  - Total income, deductions, tax rate = independent variables (inputs)
+- **Visual model**: Inputs (Independent Variables) → Processing (Model) → Outputs (Dependent Variables)
 
 #### Types of What-If Analysis
 **Scenario Analysis:**
@@ -472,14 +473,20 @@ This chapter elevates Excel usage from basic data manipulation to professional d
 ### Growth Rate Calculations and Forecasting
 #### Essential Growth Rate Mathematics
 **Growth Rate Formula:**
-- **Calculation**: (End Value - Start Value) / Start Value
+- **Definition**: Finds the change in variable between two periods
+- **Formula**: g = (x_t - x_(t-1)) / x_(t-1)
+  - Where: g = growth rate, x = variable, t = time period
+- **Calculation steps**: (End Value - Start Value) / Start Value
 - **Example**: 2019: $50M, 2020: $70M
   - Growth = ($70M - $50M) / $50M = $20M / $50M = 0.4 = 40%
 
 **Using Growth Rates in Projections:**
-- **Method**: Add 1 to growth rate before multiplying
+- **Formula**: x_end = x_start × (1 + g)
+  - Where: g = growth rate, x = variable
+- **Critical rule**: Add 1 to g before multiplying!
 - **Example**: $90M sales with 20% growth
   - Calculation: $90M × (1 + 0.20) = $90M × 1.2 = $108M
+- **Why add 1**: The formula accounts for the original value (1) plus the growth (g)
 
 #### Forecasting Fundamentals
 **What is Forecasting:**
@@ -546,7 +553,7 @@ This chapter elevates Excel usage from basic data manipulation to professional d
 
 ---
 
-### 📖 Chapter 3 (Summary)
+## 📖 Chapter 3 (Summary)
 This chapter advances Excel skills from basic functions to sophisticated data analysis and business intelligence capabilities.
 
 **Key Concepts Covered:**
