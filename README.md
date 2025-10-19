@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧠 Neural Ascension  
 _The Scholar Who Traversed Data to Become the AI Overlord_  
 
