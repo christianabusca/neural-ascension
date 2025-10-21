@@ -1,0 +1,1026 @@
+Important. Confidential information contained.,,,,,,,,,,
+student_id,classroom name,gender,race/ethnicity,parent level of education,lunch,test preparation course,math score,reading score,writing score,active
+1001,Blue,female,group D,some college,standard,completed,59,70,78,Yes
+1002,Orange,male,group D,associate's degree,standard,none,96,93,87,Yes
+1003,Grey,female,group D,some college,reduced,none,57,76,77,Yes
+1004,Brown,male,group B,some college,reduced,none,70,70,63,Yes
+1005,Orange,female,group D,associate's degree,standard,none,83,85,86,Yes
+1006,Grey,male,group C,some high school,standard,none,68,57,54,Yes
+1007,Grey,female,group E,associate's degree,standard,none,82,83,80,Yes
+1008,Red,female,group B,some high school,standard,none,46,61,58,Yes
+1009,Orange,male,group C,some high school,standard,none,80,75,73,Yes
+1010,Brown,female,group C,bachelor's degree,standard,completed,57,69,77,Yes
+1011,Purple,male,group B,some high school,standard,none,74,69,69,Yes
+1012,Grey,male,group B,master's degree,standard,none,53,50,49,Yes
+1013,Green,male,group B,bachelor's degree,free,none,76,74,76,Yes
+1014,Purple,male,group A,some college,standard,none,70,73,70,Yes
+1015,Grey,male,group C,master's degree,reduced,none,55,54,52,Yes
+1016,Orange,male,group E,master's degree,free,none,56,46,43,Yes
+1017,Yellow,female,group C,some college,reduced,none,35,47,41,Yes
+1018,Red,female,group C,high school,standard,none,87,92,81,Yes
+1019,Orange,female,group E,associate's degree,free,none,80,82,85,Yes
+1020,Red,female,group D,associate's degree,standard,completed,65,71,74,Yes
+1021,Green,male,group C,high school,free,none,66,66,62,Yes
+1022,Brown,female,group D,associate's degree,standard,completed,67,71,76,Yes
+1023,Yellow,female,group B,some college,standard,none,70,71,71,Yes
+1024,Brown,male,group E,associate's degree,standard,none,89,88,86,Yes
+1025,Brown,male,group D,associate's degree,standard,completed,99,85,88,Yes
+1026,Yellow,male,group B,some college,standard,none,74,83,72,Yes
+1027,Red,male,group D,high school,free,none,58,52,51,Yes
+1028,Red,male,group D,some high school,standard,none,70,66,59,Yes
+1029,Orange,female,group E,associate's degree,standard,none,80,79,71,Yes
+1030,Green,male,group D,associate's degree,standard,none,90,87,86,Yes
+1031,Grey,female,group B,associate's degree,standard,completed,80,81,85,Yes
+1032,Purple,female,group D,associate's degree,reduced,none,68,76,79,Yes
+1033,Green,female,group B,high school,free,completed,69,78,75,Yes
+1034,Orange,female,group D,master's degree,free,none,32,35,37,Yes
+1035,Orange,male,group D,high school,standard,completed,82,82,82,Yes
+1036,Purple,female,group A,some high school,standard,none,57,53,54,Yes
+1037,Purple,female,group E,some college,reduced,none,69,74,75,Yes
+1038,Red,male,group D,associate's degree,standard,completed,68,66,72,Yes
+1039,Red,male,group C,associate's degree,free,completed,74,85,87,Yes
+1040,Green,male,group E,master's degree,standard,none,89,85,78,Yes
+1041,Brown,male,group C,associate's degree,reduced,completed,46,46,48,Yes
+1042,Grey,male,group C,associate's degree,standard,completed,76,82,77,Yes
+1043,Yellow,male,group B,high school,standard,none,86,82,72,Yes
+1044,Orange,male,group D,some college,standard,none,69,73,67,Yes
+1045,Yellow,female,group B,high school,standard,none,52,56,54,Yes
+1046,Brown,male,group C,bachelor's degree,standard,none,63,71,65,Yes
+1047,Grey,male,group A,associate's degree,standard,completed,96,82,90,Yes
+1048,Red,male,group C,some college,standard,completed,80,76,68,Yes
+1049,Brown,female,group E,high school,standard,none,59,52,56,Yes
+1050,Orange,male,group D,some high school,standard,completed,80,77,80,Yes
+1051,Green,female,group E,high school,free,completed,65,77,74,Yes
+1052,Purple,female,group E,master's degree,reduced,completed,74,83,84,Yes
+1053,Brown,male,group D,some high school,standard,none,90,93,84,Yes
+1054,Red,female,group B,some college,standard,completed,69,72,72,Yes
+1055,Green,male,group C,high school,standard,none,69,67,63,Yes
+1056,Grey,female,group C,some college,standard,none,62,64,61,Yes
+1057,Yellow,female,group D,master's degree,standard,none,67,75,80,Yes
+1058,Red,female,group E,some high school,standard,completed,89,93,93,Yes
+1059,Blue,female,group C,bachelor's degree,standard,none,79,86,78,Yes
+1060,Blue,male,group C,some high school,standard,none,67,66,66,Yes
+1061,Yellow,male,group D,some high school,standard,completed,82,74,75,Yes
+1062,Purple,male,group C,some high school,reduced,completed,63,69,63,Yes
+1063,Grey,female,group D,some college,reduced,none,71,83,80,Yes
+1064,Grey,female,group C,associate's degree,standard,none,55,68,73,Yes
+1065,Grey,female,group B,high school,reduced,none,61,74,71,Yes
+1066,Brown,female,group B,associate's degree,reduced,none,35,34,36,Yes
+1067,Grey,male,group C,high school,reduced,none,75,77,66,Yes
+1068,Green,female,group B,some high school,free,completed,73,91,88,Yes
+1069,Green,female,group C,high school,free,none,56,62,57,Yes
+1070,Brown,male,group D,associate's degree,standard,none,80,70,73,Yes
+1071,Green,male,group C,some high school,standard,completed,83,81,78,Yes
+1072,Purple,female,group D,some college,reduced,completed,64,82,80,Yes
+1073,Purple,female,group C,some high school,standard,none,23,33,33,Yes
+1074,Blue,female,group D,some high school,free,completed,41,58,59,Yes
+1075,Yellow,male,group E,some college,standard,completed,61,49,52,Yes
+1076,Purple,male,group B,bachelor's degree,standard,none,63,46,46,Yes
+1077,Purple,male,group B,associate's degree,reduced,completed,84,91,89,Yes
+1078,Red,male,group C,some college,standard,none,55,61,59,Yes
+1079,Grey,male,group A,associate's degree,standard,completed,85,75,74,Yes
+1080,Grey,male,group B,high school,standard,none,65,61,57,Yes
+1081,Yellow,male,group C,associate's degree,standard,none,88,80,81,Yes
+1082,Green,male,group D,master's degree,free,completed,91,93,95,Yes
+1083,Red,female,group A,some college,standard,none,51,46,42,Yes
+1084,Red,male,group C,some college,standard,completed,73,77,76,Yes
+1085,Orange,female,group D,some college,standard,none,73,89,89,Yes
+1086,Green,male,group D,master's degree,standard,none,100,97,91,Yes
+1087,Green,female,group D,some high school,standard,completed,48,68,68,Yes
+1088,Red,male,group E,some college,standard,none,98,79,85,Yes
+1089,Purple,male,group B,master's degree,standard,none,68,65,60,Yes
+1090,Red,male,group C,bachelor's degree,standard,none,64,62,58,Yes
+1091,Grey,male,group C,associate's degree,reduced,completed,72,67,61,Yes
+1092,Blue,female,group C,bachelor's degree,standard,none,63,74,75,Yes
+1093,Blue,male,group C,some college,standard,none,43,51,38,Yes
+1094,Red,male,group D,some college,standard,none,80,75,74,Yes
+1095,Yellow,female,group C,some college,standard,none,71,88,83,Yes
+1096,Yellow,female,group C,associate's degree,standard,completed,91,96,97,Yes
+1097,Blue,female,group D,some college,standard,completed,68,84,87,Yes
+1098,Brown,female,group B,associate's degree,standard,none,73,80,78,Yes
+1099,Grey,female,group B,high school,reduced,completed,75,90,95,Yes
+1100,Yellow,male,group C,some college,reduced,none,83,62,64,Yes
+1101,Yellow,male,group D,high school,standard,none,88,72,74,Yes
+1102,Brown,male,group C,bachelor's degree,standard,none,59,50,53,Yes
+1103,Green,male,group D,associate's degree,standard,none,74,69,63,Yes
+1104,Blue,female,group C,some college,free,none,43,58,60,Yes
+1105,Orange,female,group C,high school,free,none,76,90,84,Yes
+1106,Orange,female,group D,some high school,standard,none,74,75,74,Yes
+1107,Yellow,female,group B,some high school,standard,completed,69,76,72,Yes
+1108,Grey,female,group B,some high school,standard,none,62,78,74,Yes
+1109,Blue,male,group C,associate's degree,free,completed,61,58,56,Yes
+1110,Orange,male,group E,some college,standard,none,88,81,77,Yes
+1111,Green,female,group D,some high school,free,completed,64,84,83,Yes
+1112,Grey,female,group B,bachelor's degree,standard,none,65,79,73,Yes
+1113,Blue,female,group C,some college,standard,completed,73,86,89,Yes
+1114,Grey,female,group C,master's degree,standard,completed,50,64,63,Yes
+1115,Blue,female,group B,associate's degree,standard,completed,63,72,78,Yes
+1116,Brown,female,group E,bachelor's degree,standard,none,98,95,100,Yes
+1117,Blue,female,group E,high school,standard,none,90,96,88,Yes
+1118,Blue,male,group C,high school,free,completed,64,71,68,Yes
+1119,Blue,female,group B,high school,free,none,38,55,52,Yes
+1120,Yellow,female,group B,bachelor's degree,standard,none,84,91,93,Yes
+1121,Grey,male,group D,high school,standard,completed,81,74,79,Yes
+1122,Grey,male,group D,master's degree,standard,none,82,84,81,Yes
+1123,Grey,female,group D,associate's degree,reduced,completed,64,67,75,Yes
+1124,Green,female,group B,high school,standard,none,55,60,67,Yes
+1125,Blue,female,group D,bachelor's degree,free,completed,59,78,80,Yes
+1126,Grey,female,group E,some college,standard,none,83,90,88,Yes
+1127,Green,male,group B,associate's degree,standard,completed,76,79,80,Yes
+1128,Blue,female,group D,some high school,standard,completed,83,95,97,Yes
+1129,Blue,female,group C,associate's degree,standard,none,69,75,75,Yes
+1130,Purple,female,group C,some college,reduced,none,43,65,60,Yes
+1131,Brown,female,group C,associate's degree,reduced,none,52,65,60,Yes
+1132,Grey,female,group C,some college,standard,none,56,58,55,Yes
+1133,Blue,male,group D,some high school,free,completed,47,46,51,Yes
+1134,Red,male,group D,master's degree,standard,none,71,61,63,Yes
+1135,Orange,female,group C,master's degree,standard,completed,66,70,83,Yes
+1136,Purple,male,group C,some college,standard,none,81,65,60,Yes
+1137,Blue,female,group E,master's degree,standard,none,85,90,88,Yes
+1138,Yellow,female,group E,master's degree,standard,none,76,77,77,Yes
+1139,Brown,female,group D,some college,reduced,none,50,66,66,Yes
+1140,Blue,male,group C,high school,standard,none,76,81,74,Yes
+1141,Orange,male,group C,some college,standard,none,65,64,61,Yes
+1142,Orange,female,group D,high school,standard,none,59,69,64,Yes
+1143,Blue,male,group C,high school,standard,none,84,77,80,Yes
+1144,Red,male,group E,bachelor's degree,standard,none,85,77,78,Yes
+1145,Green,female,group D,associate's degree,standard,none,61,56,60,Yes
+1146,Brown,female,group A,bachelor's degree,standard,completed,73,79,81,Yes
+1147,Red,male,group D,some high school,standard,none,82,77,72,Yes
+1148,Green,female,group E,associate's degree,standard,none,75,70,71,Yes
+1149,Red,male,group C,bachelor's degree,standard,none,91,83,82,Yes
+1150,Grey,female,group C,master's degree,standard,none,67,78,80,Yes
+1151,Red,male,group D,high school,standard,completed,62,69,67,Yes
+1152,Grey,male,group B,master's degree,standard,none,61,56,52,Yes
+1153,Blue,female,group C,high school,standard,none,66,77,80,Yes
+1154,Green,male,group A,master's degree,standard,none,59,57,51,Yes
+1155,Brown,male,group E,some college,standard,none,88,76,81,Yes
+1156,Red,female,group B,associate's degree,free,none,67,73,74,Yes
+1157,Red,female,group B,associate's degree,standard,completed,91,99,100,Yes
+1158,Purple,male,group C,associate's degree,reduced,completed,87,82,79,Yes
+1159,Green,male,group B,some college,standard,completed,83,79,80,Yes
+1160,Red,female,group D,associate's degree,standard,none,70,79,76,Yes
+1161,Orange,male,group E,associate's degree,standard,none,83,83,78,Yes
+1162,Red,male,group C,associate's degree,standard,none,49,53,47,Yes
+1163,Green,male,group D,high school,standard,completed,65,60,57,Yes
+1164,Yellow,male,group B,associate's degree,reduced,completed,50,56,55,Yes
+1165,Brown,male,group A,some college,standard,none,62,58,57,Yes
+1166,Purple,male,group E,bachelor's degree,standard,none,56,50,50,Yes
+1167,Green,female,group C,associate's degree,standard,none,44,49,53,Yes
+1168,Yellow,female,group E,some high school,reduced,none,63,72,60,Yes
+1169,Grey,male,group D,high school,standard,completed,72,69,74,Yes
+1170,Yellow,female,group D,bachelor's degree,reduced,completed,64,77,77,Yes
+1171,Yellow,female,group B,some college,standard,completed,61,75,82,Yes
+1172,Purple,male,group D,some college,reduced,none,82,72,69,Yes
+1173,Green,female,group A,some high school,standard,completed,57,68,74,Yes
+1174,Purple,male,group E,master's degree,standard,none,43,45,38,Yes
+1175,Purple,male,group D,some high school,standard,none,69,56,59,Yes
+1176,Grey,female,group D,master's degree,standard,none,62,71,74,Yes
+1177,Brown,female,group B,some high school,standard,none,60,73,68,Yes
+1178,Yellow,male,group E,high school,standard,none,81,70,70,Yes
+1179,Yellow,female,group C,associate's degree,reduced,completed,68,84,87,Yes
+1180,Brown,male,group C,associate's degree,standard,none,65,63,57,Yes
+1181,Green,female,group B,high school,standard,none,59,72,67,Yes
+1182,Yellow,female,group B,associate's degree,standard,none,81,89,86,Yes
+1183,Green,male,group A,master's degree,free,none,84,85,87,Yes
+1184,Green,female,group A,high school,standard,completed,56,68,70,Yes
+1185,Brown,male,group B,master's degree,reduced,completed,71,75,73,Yes
+1186,Brown,female,group D,master's degree,reduced,none,93,98,94,Yes
+1187,Brown,female,group C,high school,standard,none,77,81,85,Yes
+1188,Grey,male,group C,some college,standard,none,50,40,44,Yes
+1189,Brown,female,group D,some college,standard,none,75,75,78,Yes
+1190,Brown,female,group C,bachelor's degree,standard,none,64,82,80,Yes
+1191,Purple,male,group C,bachelor's degree,standard,none,77,65,69,Yes
+1192,Yellow,female,group A,some high school,standard,completed,64,81,87,Yes
+1193,Red,male,group B,some high school,standard,none,71,63,55,Yes
+1194,Orange,male,group D,some high school,free,completed,58,57,53,Yes
+1195,Brown,female,group D,high school,reduced,none,47,66,66,Yes
+1196,Blue,male,group D,associate's degree,standard,none,57,63,54,Yes
+1197,Blue,male,group C,some college,standard,completed,82,89,86,Yes
+1198,Yellow,female,group B,master's degree,standard,none,53,61,59,Yes
+1199,Purple,female,group C,associate's degree,reduced,completed,89,98,99,Yes
+1200,Red,female,group E,some college,standard,completed,89,94,94,Yes
+1201,Yellow,female,group A,some college,reduced,completed,75,97,92,Yes
+1202,Green,male,group D,some college,free,none,62,61,57,Yes
+1203,Grey,female,group B,high school,standard,none,63,76,67,Yes
+1204,Orange,male,group E,high school,standard,none,100,91,85,Yes
+1205,Purple,female,group B,associate's degree,standard,none,62,81,77,Yes
+1206,Purple,female,group B,associate's degree,standard,none,75,95,94,Yes
+1207,Green,male,group C,some college,standard,none,51,56,53,Yes
+1208,Blue,male,group E,master's degree,free,none,74,67,67,Yes
+1209,Brown,male,group C,high school,reduced,none,66,66,58,Yes
+1210,Orange,male,group C,some high school,standard,completed,52,59,59,Yes
+1211,Brown,male,group E,master's degree,reduced,none,69,56,56,Yes
+1212,Grey,female,group E,some high school,reduced,completed,46,57,57,Yes
+1213,Blue,female,group E,some college,standard,none,74,77,73,Yes
+1214,Red,male,group B,master's degree,standard,none,100,90,88,Yes
+1215,Purple,male,group A,some high school,standard,none,83,77,77,Yes
+1216,Red,male,group D,associate's degree,free,completed,82,78,90,Yes
+1217,Grey,female,group D,high school,standard,none,58,66,70,Yes
+1218,Orange,male,group A,some high school,free,completed,59,55,58,Yes
+1219,Red,female,group D,high school,standard,none,77,90,82,Yes
+1220,Orange,female,group E,high school,standard,none,61,61,57,Yes
+1221,Red,male,group C,master's degree,standard,none,85,81,80,Yes
+1222,Blue,female,group E,high school,free,completed,59,68,68,Yes
+1223,Red,female,group C,master's degree,free,completed,71,92,93,Yes
+1224,Purple,female,group E,some high school,standard,none,52,71,70,Yes
+1225,Blue,female,group D,some college,standard,none,62,62,68,Yes
+1226,Yellow,male,group B,associate's degree,standard,none,47,48,49,Yes
+1227,Blue,male,group D,some college,standard,completed,96,92,88,Yes
+1228,Red,female,group E,some high school,standard,none,48,60,57,Yes
+1229,Blue,male,group C,high school,free,none,20,25,15,Yes
+1230,Purple,female,group C,some high school,standard,none,70,75,76,Yes
+1231,Yellow,male,group B,high school,reduced,completed,59,62,58,Yes
+1232,Green,female,group E,associate's degree,free,none,80,80,83,Yes
+1233,Green,female,group B,some college,standard,none,83,88,90,Yes
+1234,Grey,male,group C,bachelor's degree,standard,none,75,71,76,Yes
+1235,Red,male,group D,some college,free,completed,73,68,72,Yes
+1236,Yellow,female,group C,associate's degree,standard,none,78,78,82,Yes
+1237,Yellow,male,group B,bachelor's degree,standard,completed,94,82,93,Yes
+1238,Orange,female,group B,some high school,reduced,completed,46,63,66,Yes
+1239,Orange,male,group D,some college,free,completed,77,77,77,Yes
+1240,Yellow,male,group B,some high school,standard,none,63,56,47,Yes
+1241,Grey,male,group B,bachelor's degree,standard,completed,64,70,72,Yes
+1242,Blue,female,group D,some high school,free,none,60,69,70,Yes
+1243,Brown,female,group D,some college,standard,none,74,79,73,Yes
+1244,Purple,female,group B,high school,reduced,none,67,77,81,Yes
+1245,Grey,male,group C,high school,standard,completed,78,81,80,Yes
+1246,Orange,male,group C,high school,standard,completed,88,75,72,Yes
+1247,Blue,female,group C,associate's degree,free,completed,52,64,66,Yes
+1248,Purple,male,group C,high school,standard,none,88,66,73,Yes
+1249,Orange,male,group A,high school,standard,completed,78,88,85,Yes
+1250,Blue,female,group C,high school,standard,none,55,62,61,Yes
+1251,Grey,female,group C,some college,standard,none,71,69,73,Yes
+1252,Red,male,group C,high school,free,none,75,79,68,Yes
+1253,Red,male,group B,bachelor's degree,standard,completed,62,60,55,Yes
+1254,Grey,female,group B,bachelor's degree,standard,completed,66,73,72,Yes
+1255,Red,male,group D,bachelor's degree,standard,none,39,45,36,Yes
+1256,Brown,male,group B,some college,standard,none,85,80,73,Yes
+1257,Blue,female,group B,high school,free,none,46,57,53,Yes
+1258,Orange,male,group C,master's degree,free,completed,57,64,66,Yes
+1259,Blue,female,group B,associate's degree,standard,completed,65,78,81,Yes
+1260,Yellow,male,group C,some college,standard,none,86,82,72,Yes
+1261,Brown,male,group C,some high school,standard,none,59,50,41,Yes
+1262,Red,female,group D,some high school,free,completed,49,69,68,Yes
+1263,Green,male,group B,some college,free,none,51,50,44,Yes
+1264,Red,female,group A,associate's degree,standard,none,53,57,60,Yes
+1265,Brown,female,group C,some college,standard,none,82,84,83,Yes
+1266,Blue,female,group C,high school,free,none,51,68,66,Yes
+1267,Orange,female,group D,some high school,standard,none,74,79,79,Yes
+1268,Purple,female,group D,master's degree,reduced,none,73,72,75,Yes
+1269,Green,female,group D,high school,free,none,42,61,63,Yes
+1270,Brown,female,group C,some college,reduced,completed,41,59,56,Yes
+1271,Red,female,group C,some college,standard,none,84,88,84,Yes
+1272,Blue,female,group D,some college,free,completed,64,66,62,Yes
+1273,Brown,female,group E,high school,reduced,none,74,88,75,Yes
+1274,Blue,male,group C,associate's degree,standard,none,91,84,77,Yes
+1275,Grey,male,group D,associate's degree,standard,none,67,72,65,Yes
+1276,Yellow,female,group B,high school,standard,none,54,56,59,Yes
+1277,Brown,female,group D,master's degree,standard,none,44,39,37,Yes
+1278,Yellow,female,group C,master's degree,standard,completed,65,84,86,Yes
+1279,Blue,male,group A,associate's degree,standard,none,37,40,36,Yes
+1280,Red,female,group A,associate's degree,free,none,58,75,78,Yes
+1281,Green,female,group C,bachelor's degree,free,none,69,78,78,Yes
+1282,Red,male,group C,some high school,standard,none,64,56,51,Yes
+1283,Purple,female,group C,high school,standard,none,70,63,63,Yes
+1284,Purple,female,group B,high school,reduced,none,55,68,66,Yes
+1285,Yellow,female,group B,some college,standard,completed,45,63,67,Yes
+1286,Purple,male,group E,some college,standard,completed,80,70,71,Yes
+1287,Yellow,male,group A,some college,standard,none,77,73,69,Yes
+1288,Purple,male,group B,bachelor's degree,reduced,none,57,54,44,Yes
+1289,Red,female,group C,bachelor's degree,standard,none,67,72,72,Yes
+1290,Blue,female,group A,master's degree,standard,none,68,70,72,Yes
+1291,Purple,male,group C,high school,standard,none,49,53,43,Yes
+1292,Grey,female,group D,associate's degree,standard,none,42,48,42,Yes
+1293,Green,female,group E,associate's degree,standard,none,96,93,100,Yes
+1294,Yellow,female,group C,bachelor's degree,reduced,none,55,56,54,Yes
+1295,Green,male,group D,master's degree,standard,none,70,65,56,Yes
+1296,Purple,male,group C,bachelor's degree,reduced,none,51,53,51,Yes
+1297,Grey,female,group B,some college,reduced,completed,27,49,50,Yes
+1298,Brown,male,group D,high school,standard,none,60,54,47,Yes
+1299,Orange,female,group B,some high school,standard,none,44,56,47,Yes
+1300,Purple,female,group C,high school,standard,completed,63,73,74,Yes
+1301,Purple,female,group C,associate's degree,standard,none,72,77,75,Yes
+1302,Yellow,female,group D,some high school,standard,none,82,77,80,Yes
+1303,Purple,female,group B,bachelor's degree,standard,completed,82,85,99,Yes
+1304,Green,female,group A,some high school,standard,none,70,82,83,Yes
+1305,Brown,male,group E,high school,reduced,completed,76,61,61,Yes
+1306,Blue,female,group C,bachelor's degree,free,completed,62,68,74,Yes
+1307,Purple,female,group B,high school,reduced,none,58,62,54,Yes
+1308,Purple,female,group A,high school,standard,none,61,73,70,Yes
+1309,Brown,male,group B,bachelor's degree,standard,completed,88,82,82,Yes
+1310,Grey,female,group C,some college,standard,none,61,64,54,Yes
+1311,Green,male,group D,high school,standard,completed,88,77,78,Yes
+1312,Green,male,group E,some high school,free,none,57,45,46,Yes
+1313,Red,female,group D,high school,standard,completed,92,95,93,Yes
+1314,Green,male,group C,master's degree,standard,none,80,79,73,Yes
+1315,Brown,male,group A,some high school,standard,none,62,54,52,Yes
+1316,Yellow,female,group D,some college,standard,none,71,74,80,Yes
+1317,Purple,female,group D,high school,reduced,none,54,58,63,Yes
+1318,Purple,male,group A,some college,reduced,none,43,43,40,Yes
+1319,Green,female,group C,some college,standard,none,51,57,60,Yes
+1320,Grey,male,group C,some high school,standard,none,57,46,44,Yes
+1321,Orange,male,group C,some high school,standard,completed,62,71,62,Yes
+1322,Brown,female,group B,some high school,standard,none,48,59,55,Yes
+1323,Blue,male,group C,associate's degree,free,completed,61,69,62,Yes
+1324,Purple,female,group D,some high school,standard,completed,94,91,98,Yes
+1325,Orange,male,group B,some college,free,none,44,45,41,Yes
+1326,Purple,female,group C,associate's degree,standard,none,56,71,70,Yes
+1327,Green,male,group D,associate's degree,free,none,68,69,55,Yes
+1328,Red,male,group D,some college,free,none,61,53,48,Yes
+1329,Grey,female,group C,high school,standard,completed,49,68,67,Yes
+1330,Orange,female,group D,some college,standard,none,71,71,76,Yes
+1331,Yellow,female,group E,some high school,standard,none,78,86,80,Yes
+1332,Yellow,male,group D,associate's degree,standard,none,74,70,63,Yes
+1333,Blue,male,group C,high school,standard,none,66,63,63,Yes
+1334,Green,male,group C,some high school,free,none,61,56,53,Yes
+1335,Orange,male,group D,some college,free,none,59,45,44,Yes
+1336,Purple,female,group B,high school,reduced,none,49,65,62,Yes
+1337,Grey,female,group B,associate's degree,reduced,none,61,68,67,Yes
+1338,Grey,female,group C,bachelor's degree,reduced,completed,54,57,63,Yes
+1339,Blue,female,group B,high school,free,completed,45,61,63,Yes
+1340,Blue,female,group D,bachelor's degree,free,completed,81,96,99,Yes
+1341,Red,female,group B,associate's degree,standard,none,71,87,87,Yes
+1342,Yellow,male,group B,associate's degree,standard,none,67,60,61,Yes
+1343,Grey,female,group D,some college,standard,none,56,53,58,Yes
+1344,Red,female,group B,high school,free,completed,60,66,64,Yes
+1345,Purple,male,group D,associate's degree,standard,none,95,86,83,Yes
+1346,Brown,male,group B,some college,standard,none,60,59,53,Yes
+1347,Purple,male,group B,some college,standard,none,60,55,52,Yes
+1348,Brown,male,group B,bachelor's degree,standard,none,82,68,69,Yes
+1349,Blue,male,group B,some college,free,none,78,68,70,Yes
+1350,Purple,female,group C,associate's degree,standard,none,57,67,64,Yes
+1351,Grey,male,group A,some college,standard,none,72,77,67,Yes
+1352,Yellow,female,group B,some high school,standard,none,37,51,43,Yes
+1353,Purple,male,group C,some college,standard,none,72,76,64,Yes
+1354,Red,male,group B,some college,free,none,52,57,49,Yes
+1355,Brown,male,group A,high school,standard,completed,80,72,72,Yes
+1356,Green,male,group D,associate's degree,standard,none,89,78,76,Yes
+1357,Yellow,female,group C,some college,standard,completed,84,88,87,Yes
+1358,Purple,female,group B,some high school,standard,none,67,73,76,Yes
+1359,Orange,female,group B,master's degree,standard,completed,59,75,79,Yes
+1360,Blue,male,group C,some college,standard,completed,95,85,80,Yes
+1361,Red,female,group B,master's degree,standard,none,71,68,68,Yes
+1362,Purple,female,group C,high school,standard,none,72,76,74,Yes
+1363,Purple,male,group E,high school,standard,completed,83,80,82,Yes
+1364,Grey,male,group E,some high school,standard,none,94,86,82,Yes
+1365,Blue,male,group B,some college,free,completed,58,57,58,Yes
+1366,Orange,male,group C,bachelor's degree,standard,completed,75,62,65,Yes
+1367,Yellow,female,group B,some high school,reduced,none,65,83,77,Yes
+1368,Orange,female,group C,bachelor's degree,free,completed,68,78,83,Yes
+1369,Grey,female,group C,some high school,reduced,none,34,44,43,Yes
+1370,Red,male,group E,some college,standard,none,97,96,89,Yes
+1371,Yellow,female,group D,high school,standard,none,44,47,55,Yes
+1372,Orange,male,group D,some high school,standard,completed,60,57,60,Yes
+1373,Yellow,female,group C,high school,reduced,completed,66,81,75,Yes
+1374,Blue,male,group E,high school,standard,none,96,94,93,Yes
+1375,Purple,female,group B,high school,reduced,none,39,60,52,Yes
+1376,Yellow,male,group C,some college,reduced,none,56,57,62,Yes
+1377,Orange,male,group C,high school,standard,none,31,27,19,Yes
+1378,Brown,female,group C,bachelor's degree,standard,completed,74,79,84,Yes
+1379,Orange,male,group D,bachelor's degree,standard,completed,100,100,100,Yes
+1380,Red,female,group A,high school,standard,completed,68,75,73,Yes
+1381,Blue,female,group C,associate's degree,free,completed,79,89,96,Yes
+1382,Brown,male,group E,bachelor's degree,reduced,none,62,69,60,Yes
+1383,Green,female,group A,associate's degree,standard,none,72,85,81,Yes
+1384,Blue,female,group C,some college,standard,none,66,78,75,Yes
+1385,Red,male,group C,high school,standard,completed,64,66,69,Yes
+1386,Orange,female,group C,some high school,standard,none,62,64,64,Yes
+1387,Green,female,group E,bachelor's degree,free,completed,68,82,86,Yes
+1388,Red,male,group C,some college,free,completed,70,75,74,Yes
+1389,Grey,female,group E,bachelor's degree,reduced,none,63,61,64,Yes
+1390,Red,female,group D,high school,standard,completed,91,100,100,Yes
+1391,Red,female,group D,some college,standard,none,58,62,63,Yes
+1392,Orange,male,group E,some college,standard,none,75,66,59,Yes
+1393,Red,female,group C,associate's degree,free,none,44,55,61,Yes
+1394,Grey,female,group C,some college,reduced,none,68,64,64,Yes
+1395,Purple,male,group C,bachelor's degree,reduced,none,65,61,57,Yes
+1396,Grey,female,group D,some college,reduced,completed,66,71,87,Yes
+1397,Orange,male,group C,bachelor's degree,free,none,73,69,70,Yes
+1398,Green,female,group B,associate's degree,free,none,67,76,76,Yes
+1399,Red,female,group C,associate's degree,free,none,66,73,69,Yes
+1400,Yellow,male,group E,some college,standard,none,81,78,68,Yes
+1401,Green,male,group E,some high school,standard,none,77,62,57,Yes
+1402,Grey,female,group D,some college,reduced,none,43,48,53,Yes
+1403,Blue,female,group C,bachelor's degree,standard,none,58,70,72,Yes
+1404,Green,male,group C,some college,free,none,65,77,70,Yes
+1405,Yellow,male,group C,high school,standard,none,92,89,83,Yes
+1406,Blue,male,group D,some high school,standard,completed,56,48,54,Yes
+1407,Red,female,group D,master's degree,standard,none,65,73,77,Yes
+1408,Orange,male,group D,associate's degree,standard,none,72,67,59,Yes
+1409,Blue,male,group D,some high school,standard,completed,100,84,87,Yes
+1410,Yellow,female,group C,high school,standard,none,69,81,70,Yes
+1411,Grey,male,group D,some college,standard,completed,70,66,68,Yes
+1412,Grey,male,group E,high school,standard,none,90,80,78,Yes
+1413,Green,male,group C,high school,standard,none,90,79,75,Yes
+1414,Brown,female,group D,high school,standard,completed,63,78,74,Yes
+1415,Brown,female,group D,associate's degree,standard,none,40,51,51,Yes
+1416,Yellow,female,group A,high school,standard,none,64,72,66,Yes
+1417,Grey,male,group C,some college,standard,none,90,76,71,Yes
+1418,Blue,male,group C,some college,standard,none,76,74,73,Yes
+1419,Blue,male,group B,some college,free,none,42,48,33,Yes
+1420,Red,female,group D,bachelor's degree,free,completed,45,68,71,Yes
+1421,Orange,male,group D,bachelor's degree,standard,none,76,65,70,Yes
+1422,Purple,male,group C,some high school,standard,completed,63,69,68,Yes
+1423,Orange,male,group E,some college,standard,completed,84,77,79,Yes
+1424,Red,female,group A,bachelor's degree,free,none,62,75,73,Yes
+1425,Purple,female,group C,associate's degree,reduced,completed,69,76,82,Yes
+1426,Brown,male,group C,some high school,standard,none,77,79,76,Yes
+1427,Grey,male,group D,bachelor's degree,standard,none,63,65,58,Yes
+1428,Purple,male,group C,high school,standard,completed,72,67,67,Yes
+1429,Red,male,group E,associate's degree,standard,none,75,68,68,Yes
+1430,Yellow,female,group C,bachelor's degree,standard,none,61,66,71,Yes
+1431,Orange,female,group A,high school,standard,none,79,97,85,Yes
+1432,Green,female,group D,high school,standard,none,53,66,64,Yes
+1433,Brown,male,group B,some college,standard,completed,77,68,66,Yes
+1434,Grey,male,group A,high school,reduced,none,44,49,43,Yes
+1435,Brown,male,group B,high school,standard,none,44,50,37,Yes
+1436,Yellow,female,group C,associate's degree,standard,completed,71,84,88,Yes
+1437,Red,female,group B,associate's degree,standard,completed,60,65,67,Yes
+1438,Green,male,group B,some high school,standard,none,49,39,33,Yes
+1439,Blue,female,group A,high school,standard,completed,82,95,93,Yes
+1440,Orange,male,group E,master's degree,free,none,68,70,62,Yes
+1441,Brown,female,group D,some high school,reduced,none,58,63,65,Yes
+1442,Brown,female,group B,high school,standard,none,65,68,67,Yes
+1443,Yellow,male,group C,associate's degree,standard,none,50,42,35,Yes
+1444,Brown,female,group D,associate's degree,reduced,completed,73,72,79,Yes
+1445,Purple,male,group D,some high school,reduced,completed,40,50,47,Yes
+1446,Green,female,group C,some high school,free,completed,60,67,74,Yes
+1447,Blue,male,group C,associate's degree,free,none,57,58,51,Yes
+1448,Purple,male,group C,some college,reduced,none,57,60,57,Yes
+1449,Orange,female,group B,some high school,standard,none,83,86,89,Yes
+1450,Purple,male,group C,master's degree,standard,none,68,56,57,Yes
+1451,Green,male,group D,bachelor's degree,standard,none,74,76,73,Yes
+1452,Brown,male,group B,master's degree,reduced,none,76,68,70,Yes
+1453,Brown,female,group C,some high school,reduced,none,38,45,44,Yes
+1454,Purple,female,group C,high school,standard,none,63,64,59,Yes
+1455,Red,male,group E,bachelor's degree,free,none,87,79,72,Yes
+1456,Yellow,male,group E,high school,reduced,none,81,84,78,Yes
+1457,Green,female,group D,associate's degree,standard,none,84,90,90,Yes
+1458,Yellow,female,group E,high school,reduced,completed,68,69,71,Yes
+1459,Green,female,group A,some high school,free,none,57,70,71,Yes
+1460,Yellow,female,group C,master's degree,standard,none,75,82,81,Yes
+1461,Green,female,group C,high school,free,none,39,50,41,Yes
+1462,Grey,female,group D,some high school,standard,completed,54,77,78,Yes
+1463,Green,male,group D,associate's degree,standard,none,71,73,69,Yes
+1464,Brown,male,group A,some college,standard,none,58,64,55,Yes
+1465,Yellow,female,group D,associate's degree,standard,none,61,70,73,Yes
+1466,Orange,female,group D,associate's degree,standard,completed,82,85,94,Yes
+1467,Brown,female,group D,associate's degree,standard,completed,73,87,83,Yes
+1468,Green,female,group D,some high school,standard,none,52,66,63,Yes
+1469,Grey,male,group B,some high school,reduced,none,33,47,32,Yes
+1470,Yellow,male,group D,associate's degree,standard,completed,67,68,69,Yes
+1471,Blue,female,group B,some high school,free,none,61,80,82,Yes
+1472,Yellow,female,group E,associate's degree,standard,completed,86,89,96,Yes
+1473,Orange,male,group D,bachelor's degree,standard,completed,98,96,100,Yes
+1474,Brown,male,group C,some college,standard,completed,72,56,63,Yes
+1475,Red,male,group B,associate's degree,free,none,60,59,52,Yes
+1476,Purple,male,group C,some college,standard,none,66,68,62,Yes
+1477,Brown,male,group C,some high school,standard,completed,86,89,87,Yes
+1478,Yellow,female,group B,high school,standard,none,45,52,51,Yes
+1479,Green,female,group C,some high school,standard,none,75,86,84,Yes
+1480,Yellow,female,group A,associate's degree,standard,none,51,69,65,Yes
+1481,Orange,female,group C,high school,standard,none,21,30,26,Yes
+1482,Yellow,male,group D,high school,reduced,none,54,53,47,Yes
+1483,Red,male,group D,high school,standard,none,83,78,74,Yes
+1484,Blue,male,group B,associate's degree,free,none,74,79,65,Yes
+1485,Purple,male,group C,bachelor's degree,standard,none,73,67,73,Yes
+1486,Yellow,male,group D,some high school,reduced,completed,69,70,75,Yes
+1487,Orange,female,group C,some college,standard,none,81,93,94,Yes
+1488,Yellow,male,group E,bachelor's degree,standard,completed,95,90,89,Yes
+1489,Brown,male,group E,some college,standard,completed,97,88,81,Yes
+1490,Purple,female,group C,master's degree,standard,completed,62,68,75,Yes
+1491,Brown,male,group C,some high school,standard,none,63,57,59,Yes
+1492,Orange,female,group D,high school,standard,completed,50,72,70,Yes
+1493,Orange,female,group D,some high school,standard,none,25,33,32,Yes
+1494,Blue,male,group D,some high school,standard,none,73,67,64,Yes
+1495,Orange,male,group D,associate's degree,free,completed,57,58,54,Yes
+1496,Purple,male,group C,high school,standard,none,64,62,61,Yes
+1497,Yellow,female,group E,high school,standard,none,86,89,87,Yes
+1498,Red,female,group D,associate's degree,free,none,62,65,69,Yes
+1499,Red,male,group D,associate's degree,standard,none,97,94,91,Yes
+1500,Purple,female,group A,some college,standard,none,62,64,63,Yes
+1501,Yellow,female,group E,some high school,standard,none,91,97,91,Yes
+1502,Green,male,group C,associate's degree,free,completed,60,57,61,Yes
+1503,Red,male,group E,high school,free,none,59,55,46,Yes
+1504,Green,female,group D,associate's degree,standard,none,75,87,90,Yes
+1505,Purple,female,group C,master's degree,standard,completed,79,87,89,Yes
+1506,Grey,female,group C,associate's degree,reduced,completed,79,92,97,Yes
+1507,Grey,female,group A,high school,reduced,none,34,49,47,Yes
+1508,Green,male,group D,some high school,free,none,49,49,43,Yes
+1509,Blue,female,group B,some college,standard,completed,47,58,56,Yes
+1510,Green,male,group E,associate's degree,standard,none,78,73,65,Yes
+1511,Green,male,group D,some high school,free,completed,46,53,54,Yes
+1512,Purple,male,group C,associate's degree,reduced,none,72,80,75,Yes
+1513,Red,female,group D,associate's degree,free,none,45,61,57,Yes
+1514,Blue,female,group C,associate's degree,free,none,28,32,28,Yes
+1515,Green,female,group D,some high school,standard,none,83,92,93,Yes
+1516,Red,female,group E,some college,standard,completed,86,89,89,Yes
+1517,Brown,female,group D,some high school,reduced,completed,64,75,81,Yes
+1518,Orange,male,group B,high school,free,none,65,55,51,Yes
+1519,Grey,female,group B,some college,reduced,completed,69,85,84,Yes
+1520,Orange,female,group B,high school,standard,completed,66,62,66,Yes
+1521,Red,female,group E,some college,free,none,41,60,55,Yes
+1522,Orange,male,group D,master's degree,free,completed,67,71,70,Yes
+1523,Yellow,male,group C,bachelor's degree,reduced,completed,57,65,56,Yes
+1524,Red,female,group C,associate's degree,free,completed,42,50,61,Yes
+1525,Brown,female,group D,high school,reduced,none,75,81,87,Yes
+1526,Green,female,group C,associate's degree,standard,completed,77,90,97,Yes
+1527,Yellow,male,group B,master's degree,reduced,none,65,65,62,Yes
+1528,Blue,female,group E,some high school,standard,completed,87,90,90,Yes
+1529,Purple,female,group D,high school,reduced,completed,72,76,78,Yes
+1530,Blue,female,group E,high school,standard,none,71,83,79,Yes
+1531,Blue,female,group C,some college,free,completed,60,80,76,Yes
+1532,Purple,female,group D,high school,reduced,completed,67,75,84,Yes
+1533,Orange,female,group C,high school,standard,none,54,73,64,Yes
+1534,Grey,male,group B,bachelor's degree,reduced,completed,48,59,55,Yes
+1535,Yellow,male,group C,high school,standard,completed,67,63,67,Yes
+1536,Brown,male,group B,some high school,reduced,completed,58,56,53,Yes
+1537,Brown,female,group C,high school,standard,completed,80,83,86,Yes
+1538,Green,female,group B,some college,standard,none,84,100,96,Yes
+1539,Blue,male,group C,some college,standard,completed,48,38,46,Yes
+1540,Orange,female,group B,some college,free,completed,55,67,68,Yes
+1541,Red,female,group C,some high school,standard,completed,69,84,81,Yes
+1542,Purple,male,group C,high school,standard,none,74,72,62,Yes
+1543,Orange,female,group D,some high school,standard,none,62,68,65,Yes
+1544,Grey,male,group D,high school,standard,completed,76,75,77,Yes
+1545,Blue,male,group B,bachelor's degree,standard,none,84,81,72,Yes
+1546,Purple,male,group E,high school,standard,none,93,86,76,Yes
+1547,Orange,male,group E,associate's degree,standard,none,56,44,44,Yes
+1548,Yellow,female,group B,some high school,standard,none,52,65,60,Yes
+1549,Orange,female,group C,some college,standard,completed,81,90,93,Yes
+1550,Brown,male,group E,high school,standard,completed,84,79,75,Yes
+1551,Grey,male,group D,some high school,standard,none,55,50,47,Yes
+1552,Red,male,group C,high school,free,completed,54,53,51,Yes
+1553,Red,male,group B,some high school,free,none,46,41,40,Yes
+1554,Blue,male,group D,high school,free,none,48,46,50,Yes
+1555,Blue,male,group C,some high school,standard,none,79,65,67,Yes
+1556,Green,female,group E,high school,free,completed,66,66,75,Yes
+1557,Purple,male,group A,associate's degree,reduced,completed,56,60,63,Yes
+1558,Brown,female,group E,associate's degree,reduced,none,60,74,68,Yes
+1559,Red,female,group B,associate's degree,standard,none,75,91,81,Yes
+1560,Purple,male,group A,some high school,standard,completed,79,65,65,Yes
+1561,Yellow,male,group C,high school,reduced,completed,41,57,55,Yes
+1562,Green,female,group C,associate's degree,free,none,35,40,45,Yes
+1563,Green,female,group A,some college,free,none,54,56,58,Yes
+1564,Purple,male,group C,some high school,standard,none,67,65,62,Yes
+1565,Green,female,group D,high school,standard,completed,85,98,99,Yes
+1566,Red,female,group E,associate's degree,standard,none,92,100,99,Yes
+1567,Orange,male,group D,associate's degree,standard,completed,99,100,100,Yes
+1568,Purple,female,group C,some high school,reduced,completed,52,59,58,Yes
+1569,Blue,male,group C,associate's degree,free,none,73,66,68,Yes
+1570,Blue,female,group D,some high school,free,completed,62,75,79,Yes
+1571,Grey,male,group E,some high school,standard,none,75,71,68,Yes
+1572,Brown,female,group B,associate's degree,standard,none,90,94,93,Yes
+1573,Red,male,group D,high school,free,none,54,49,48,Yes
+1574,Red,male,group D,associate's degree,standard,none,81,74,74,Yes
+1575,Green,male,group C,some high school,free,none,74,66,64,Yes
+1576,Brown,male,group B,associate's degree,reduced,completed,68,73,72,Yes
+1577,Red,male,group D,some college,standard,none,74,74,70,Yes
+1578,Blue,male,group C,high school,free,none,51,57,44,Yes
+1579,Purple,female,group C,some high school,standard,none,68,77,75,Yes
+1580,Grey,male,group B,some college,standard,none,69,59,57,Yes
+1581,Purple,male,group E,some college,standard,completed,100,89,86,Yes
+1582,Green,female,group C,some college,standard,none,53,59,59,Yes
+1583,Orange,male,group C,bachelor's degree,free,completed,72,70,70,Yes
+1584,Grey,male,group B,bachelor's degree,reduced,none,50,40,38,Yes
+1585,Purple,female,group A,high school,standard,none,61,69,69,Yes
+1586,Orange,male,group C,high school,standard,none,65,69,56,Yes
+1587,Grey,female,group D,high school,reduced,none,15,39,40,Yes
+1588,Blue,male,group C,some high school,free,none,64,56,52,Yes
+1589,Brown,male,group C,high school,standard,none,77,70,60,Yes
+1590,Blue,female,group D,some college,standard,completed,61,63,70,Yes
+1591,Orange,female,group B,high school,free,completed,49,66,60,Yes
+1592,Orange,male,group C,bachelor's degree,standard,none,70,49,53,Yes
+1593,Grey,male,group A,associate's degree,standard,none,60,56,57,Yes
+1594,Brown,female,group D,some college,standard,none,84,97,96,Yes
+1595,Blue,male,group D,high school,free,none,51,56,50,Yes
+1596,Orange,male,group C,bachelor's degree,standard,none,74,61,68,Yes
+1597,Purple,female,group B,bachelor's degree,standard,completed,64,77,79,Yes
+1598,Grey,female,group C,some college,standard,completed,67,74,81,Yes
+1599,Grey,male,group C,associate's degree,standard,none,76,61,62,Yes
+1600,Yellow,male,group D,some high school,standard,completed,70,66,72,Yes
+1601,Yellow,female,group C,some college,standard,none,85,92,84,Yes
+1602,Grey,female,group D,some high school,standard,none,53,55,57,Yes
+1603,Grey,male,group C,high school,standard,none,84,71,66,Yes
+1604,Green,male,group B,some high school,standard,none,55,49,44,Yes
+1605,Purple,female,group C,high school,standard,none,50,62,63,Yes
+1606,Red,male,group C,some high school,free,none,79,77,71,Yes
+1607,Red,male,group C,associate's degree,standard,none,81,77,71,Yes
+1608,Blue,male,group D,associate's degree,standard,completed,89,75,80,Yes
+1609,Purple,male,group C,associate's degree,reduced,completed,59,68,66,Yes
+1610,Brown,male,group D,some college,standard,completed,82,79,81,Yes
+1611,Orange,male,group D,associate's degree,standard,none,86,84,82,Yes
+1612,Brown,female,group D,some college,reduced,none,41,58,60,Yes
+1613,Grey,female,group D,master's degree,standard,completed,64,67,72,Yes
+1614,Red,male,group A,associate's degree,free,completed,68,71,64,Yes
+1615,Purple,male,group E,high school,reduced,completed,74,67,61,Yes
+1616,Orange,female,group C,some college,free,completed,44,44,53,Yes
+1617,Green,female,group C,high school,free,completed,34,66,59,Yes
+1618,Green,male,group B,some high school,standard,completed,45,50,48,Yes
+1619,Yellow,female,group C,master's degree,standard,completed,83,86,90,Yes
+1620,Purple,male,group C,some college,standard,none,55,65,57,Yes
+1621,Green,male,group E,high school,free,none,61,56,52,Yes
+1622,Grey,female,group B,high school,standard,completed,81,89,88,Yes
+1623,Brown,male,group B,associate's degree,reduced,none,45,52,45,Yes
+1624,Yellow,male,group B,high school,standard,none,71,63,61,Yes
+1625,Brown,male,group C,bachelor's degree,standard,completed,62,67,68,Yes
+1626,Orange,female,group E,some college,standard,completed,78,83,76,Yes
+1627,Orange,male,group D,some college,standard,none,76,74,71,Yes
+1628,Yellow,female,group A,associate's degree,standard,completed,73,68,81,Yes
+1629,Yellow,female,group C,associate's degree,standard,none,82,91,85,Yes
+1630,Blue,male,group D,some college,standard,completed,69,58,60,Yes
+1631,Yellow,male,group D,bachelor's degree,reduced,none,72,71,65,Yes
+1632,Orange,female,group B,high school,standard,completed,72,73,72,Yes
+1633,Grey,male,group B,associate's degree,reduced,none,57,59,62,Yes
+1634,Yellow,male,group A,high school,standard,completed,83,71,69,Yes
+1635,Purple,male,group C,some high school,standard,none,68,76,72,Yes
+1636,Brown,female,group C,some high school,reduced,completed,62,74,71,Yes
+1637,Blue,male,group D,associate's degree,standard,none,99,97,95,Yes
+1638,Orange,male,group B,high school,standard,completed,88,87,85,Yes
+1639,Green,female,group C,high school,standard,none,56,68,66,Yes
+1640,Grey,female,group B,associate's degree,standard,none,68,70,76,Yes
+1641,Yellow,male,group C,high school,standard,completed,75,69,67,Yes
+1642,Green,female,group C,some college,standard,none,45,46,47,Yes
+1643,Orange,male,group C,high school,free,none,72,68,62,Yes
+1644,Orange,male,group E,some college,standard,completed,99,98,93,Yes
+1645,Blue,male,group C,some college,free,none,76,72,65,Yes
+1646,Blue,female,group B,some high school,free,completed,64,72,79,Yes
+1647,Blue,female,group B,some college,standard,none,56,61,65,Yes
+1648,Grey,female,group E,some college,reduced,none,74,78,81,Yes
+1649,Grey,male,group D,bachelor's degree,standard,completed,97,91,96,Yes
+1650,Orange,female,group B,some college,standard,none,83,89,88,Yes
+1651,Orange,female,group B,bachelor's degree,standard,completed,55,64,63,Yes
+1652,Red,female,group B,some college,standard,completed,77,90,93,Yes
+1653,Orange,female,group D,bachelor's degree,standard,none,78,80,79,Yes
+1654,Grey,female,group E,some high school,standard,completed,89,95,99,Yes
+1655,Brown,male,group A,high school,standard,none,78,72,66,Yes
+1656,Red,male,group C,some college,free,none,33,42,41,Yes
+1657,Red,female,group D,associate's degree,standard,none,66,72,74,Yes
+1658,Blue,male,group E,some college,standard,completed,87,87,79,Yes
+1659,Orange,female,group B,some college,standard,none,50,48,52,Yes
+1660,Yellow,female,group A,high school,standard,none,79,86,84,Yes
+1661,Red,male,group B,bachelor's degree,free,none,70,70,66,Yes
+1662,Yellow,female,group B,some college,reduced,completed,47,61,64,Yes
+1663,Brown,female,group C,high school,standard,none,80,84,81,Yes
+1664,Orange,male,group E,some college,standard,completed,91,76,78,Yes
+1665,Grey,female,group D,high school,reduced,completed,78,86,88,Yes
+1666,Grey,male,group D,some college,reduced,completed,56,61,62,Yes
+1667,Yellow,male,group C,some high school,standard,none,54,56,47,Yes
+1668,Red,male,group A,associate's degree,standard,completed,79,65,69,Yes
+1669,Blue,male,group E,associate's degree,standard,completed,93,87,84,Yes
+1670,Blue,male,group D,some high school,standard,completed,74,78,78,Yes
+1671,Red,female,group E,associate's degree,free,none,83,90,95,Yes
+1672,Red,male,group C,high school,standard,none,90,78,78,Yes
+1673,Brown,female,group C,some college,reduced,completed,62,78,71,Yes
+1674,Purple,female,group D,bachelor's degree,standard,none,58,61,59,Yes
+1675,Orange,male,group E,some college,free,none,73,73,63,Yes
+1676,Red,male,group C,some high school,standard,none,63,59,51,Yes
+1677,Orange,male,group D,associate's degree,standard,completed,89,83,81,Yes
+1678,Grey,male,group D,some college,standard,none,75,66,72,Yes
+1679,Grey,male,group C,some college,reduced,none,51,54,51,Yes
+1680,Green,female,group C,some high school,free,completed,58,80,76,Yes
+1681,Purple,female,group C,bachelor's degree,standard,completed,92,88,94,Yes
+1682,Red,female,group D,associate's degree,free,none,39,65,64,Yes
+1683,Purple,female,group B,associate's degree,standard,none,84,90,89,Yes
+1684,Blue,male,group C,some college,standard,completed,71,66,70,Yes
+1685,Brown,female,group E,high school,standard,none,85,86,88,Yes
+1686,Red,female,group B,high school,free,none,59,74,68,Yes
+1687,Purple,male,group D,bachelor's degree,standard,none,71,67,64,Yes
+1688,Yellow,male,group E,some high school,standard,none,74,60,59,Yes
+1689,Brown,male,group D,some college,reduced,none,62,58,56,Yes
+1690,Green,female,group E,associate's degree,free,completed,83,86,91,Yes
+1691,Green,male,group D,some college,standard,none,74,63,65,Yes
+1692,Green,male,group B,some high school,free,completed,64,62,55,Yes
+1693,Green,male,group C,some college,standard,none,79,76,69,Yes
+1694,Grey,female,group C,high school,reduced,none,24,48,46,Yes
+1695,Red,male,group E,associate's degree,free,completed,66,60,64,Yes
+1696,Brown,female,group D,some high school,standard,completed,69,86,87,Yes
+1697,Grey,male,group C,some high school,standard,none,65,58,57,Yes
+1698,Red,male,group E,some high school,standard,none,66,63,60,Yes
+1699,Brown,female,group E,high school,standard,none,54,56,56,Yes
+1700,Blue,male,group D,some high school,standard,none,59,48,48,Yes
+1701,Yellow,male,group C,some college,reduced,none,60,67,61,Yes
+1702,Grey,female,group D,some college,standard,none,68,76,79,Yes
+1703,Orange,female,group A,high school,standard,none,61,69,66,Yes
+1704,Yellow,female,group E,some college,reduced,none,84,88,82,Yes
+1705,Red,female,group B,master's degree,standard,none,62,67,70,Yes
+1706,Orange,female,group A,some high school,standard,none,70,75,70,Yes
+1707,Grey,male,group B,high school,reduced,completed,76,81,72,Yes
+1708,Blue,female,group B,associate's degree,standard,completed,81,92,97,Yes
+1709,Brown,male,group B,master's degree,reduced,none,54,60,60,Yes
+1710,Brown,male,group D,high school,standard,none,67,65,59,Yes
+1711,Blue,male,group A,some high school,standard,completed,56,53,53,Yes
+1712,Brown,male,group D,bachelor's degree,reduced,none,63,59,51,Yes
+1713,Green,male,group C,associate's degree,free,none,39,44,36,Yes
+1714,Grey,male,group C,master's degree,standard,none,93,78,77,Yes
+1715,Purple,female,group E,some high school,reduced,completed,65,72,76,Yes
+1716,Grey,male,group A,associate's degree,standard,none,83,83,70,Yes
+1717,Purple,male,group D,associate's degree,reduced,completed,75,78,77,Yes
+1718,Green,male,group C,some college,free,none,71,74,73,Yes
+1719,Orange,female,group C,some college,standard,none,46,52,48,Yes
+1720,Yellow,female,group D,bachelor's degree,standard,completed,60,74,72,Yes
+1721,Blue,male,group D,bachelor's degree,standard,none,55,35,43,Yes
+1722,Purple,male,group C,master's degree,standard,completed,79,72,74,Yes
+1723,Grey,male,group C,associate's degree,reduced,none,62,55,50,Yes
+1724,Purple,female,group C,high school,standard,completed,55,72,70,Yes
+1725,Purple,female,group B,some college,standard,none,58,64,56,Yes
+1726,Blue,male,group D,associate's degree,free,none,82,76,75,Yes
+1727,Grey,female,group B,high school,reduced,none,30,47,46,Yes
+1728,Brown,male,group C,some college,standard,none,80,79,74,Yes
+1729,Grey,male,group D,some college,standard,none,98,88,85,Yes
+1730,Green,female,group A,some college,standard,none,83,91,92,Yes
+1731,Red,female,group B,bachelor's degree,standard,none,81,84,86,Yes
+1732,Blue,female,group C,high school,free,completed,54,68,69,Yes
+1733,Orange,female,group D,associate's degree,standard,completed,82,95,100,Yes
+1734,Purple,female,group E,high school,reduced,none,62,70,64,Yes
+1735,Orange,female,group E,high school,reduced,completed,70,77,86,Yes
+1736,Orange,female,group C,some college,standard,none,77,85,85,Yes
+1737,Red,male,group C,some college,standard,none,55,48,46,Yes
+1738,Orange,male,group D,high school,standard,completed,78,76,80,Yes
+1739,Yellow,male,group A,associate's degree,reduced,completed,69,77,77,Yes
+1740,Grey,female,group B,some college,reduced,completed,58,62,64,Yes
+1741,Green,female,group D,high school,free,completed,39,52,58,Yes
+1742,Orange,male,group D,some high school,standard,none,80,80,79,Yes
+1743,Green,male,group B,some college,standard,none,76,70,67,Yes
+1744,Yellow,female,group A,high school,standard,none,52,68,66,Yes
+1745,Yellow,male,group B,master's degree,standard,none,88,78,84,Yes
+1746,Brown,male,group C,master's degree,reduced,none,82,69,76,Yes
+1747,Orange,male,group C,some college,free,none,62,65,61,Yes
+1748,Orange,female,group E,some high school,standard,completed,90,96,98,Yes
+1749,Purple,female,group A,associate's degree,reduced,none,41,49,51,Yes
+1750,Orange,male,group C,some college,free,completed,59,69,63,Yes
+1751,Red,female,group B,some college,standard,none,61,69,73,Yes
+1752,Brown,male,group C,bachelor's degree,standard,none,68,56,57,Yes
+1753,Red,female,group C,associate's degree,standard,none,60,75,72,Yes
+1754,Grey,female,group B,some high school,reduced,completed,37,48,46,Yes
+1755,Green,male,group E,some college,free,none,67,67,62,Yes
+1756,Brown,female,group A,associate's degree,standard,none,73,76,74,Yes
+1757,Brown,male,group A,some college,reduced,completed,74,75,78,Yes
+1758,Green,female,group C,some college,free,completed,67,89,89,Yes
+1759,Green,female,group B,some college,free,none,37,51,51,Yes
+1760,Orange,female,group A,high school,standard,none,61,73,74,Yes
+1761,Grey,female,group C,some college,reduced,completed,64,81,87,Yes
+1762,Green,female,group D,some college,standard,none,74,81,82,Yes
+1763,Purple,male,group C,high school,reduced,none,34,37,27,Yes
+1764,Yellow,female,group D,high school,standard,none,54,62,62,Yes
+1765,Purple,female,group B,some college,standard,none,65,76,70,Yes
+1766,Purple,male,group D,some college,standard,none,81,86,78,Yes
+1767,Orange,male,group E,master's degree,standard,completed,88,89,87,Yes
+1768,Yellow,male,group D,some high school,standard,none,82,70,67,Yes
+1769,Red,female,group C,some high school,standard,none,70,75,78,Yes
+1770,Yellow,male,group C,some high school,standard,completed,60,51,55,Yes
+1771,Yellow,female,group C,master's degree,standard,none,70,81,75,Yes
+1772,Red,female,group C,some high school,standard,none,67,72,71,Yes
+1773,Orange,female,group E,bachelor's degree,standard,completed,98,100,99,Yes
+1774,Red,male,group D,some high school,free,completed,35,56,54,Yes
+1775,Yellow,female,group C,associate's degree,standard,none,69,82,78,Yes
+1776,Green,male,group D,high school,free,completed,38,38,41,Yes
+1777,Grey,male,group A,high school,reduced,none,70,74,65,Yes
+1778,Green,female,group E,some high school,free,completed,42,59,59,Yes
+1779,Brown,female,group A,some high school,reduced,none,47,58,54,Yes
+1780,Red,female,group B,bachelor's degree,free,completed,49,57,61,Yes
+1781,Grey,male,group E,some college,standard,completed,90,93,91,Yes
+1782,Red,male,group D,associate's degree,free,none,49,54,50,Yes
+1783,Purple,male,group D,master's degree,reduced,none,83,86,87,Yes
+1784,Brown,male,group C,associate's degree,reduced,none,82,86,78,Yes
+1785,Purple,female,group C,associate's degree,standard,none,72,69,70,Yes
+1786,Grey,female,group D,associate's degree,standard,none,67,67,67,Yes
+1787,Orange,male,group B,master's degree,standard,none,92,89,83,Yes
+1788,Orange,female,group C,master's degree,standard,none,59,64,64,Yes
+1789,Purple,male,group D,bachelor's degree,standard,none,64,63,64,Yes
+1790,Brown,female,group C,some high school,standard,none,88,90,90,Yes
+1791,Purple,male,group D,some college,standard,none,92,77,84,Yes
+1792,Blue,male,group C,associate's degree,free,none,82,73,74,Yes
+1793,Brown,female,group C,some college,standard,none,59,72,70,Yes
+1794,Yellow,male,group C,high school,reduced,none,45,43,47,Yes
+1795,Purple,male,group C,high school,reduced,none,56,67,62,Yes
+1796,Blue,male,group B,high school,standard,none,52,48,49,Yes
+1797,Purple,male,group D,associate's degree,standard,none,86,72,76,Yes
+1798,Green,female,group D,some college,standard,completed,81,93,94,Yes
+1799,Blue,female,group B,associate's degree,free,none,61,64,63,Yes
+1800,Blue,male,group B,high school,standard,none,51,52,46,Yes
+1801,Blue,female,group D,bachelor's degree,free,none,69,85,83,Yes
+1802,Brown,male,group B,high school,standard,none,81,71,62,Yes
+1803,Grey,female,group D,bachelor's degree,reduced,none,73,85,83,Yes
+1804,Brown,female,group E,bachelor's degree,standard,completed,92,87,92,Yes
+1805,Purple,male,group E,associate's degree,standard,none,71,63,53,Yes
+1806,Purple,female,group C,high school,standard,none,61,57,55,Yes
+1807,Yellow,male,group C,associate's degree,standard,none,80,76,74,Yes
+1808,Green,male,group B,some high school,free,none,38,38,30,Yes
+1809,Purple,male,group B,some high school,standard,completed,72,62,62,Yes
+1810,Green,female,group E,some college,standard,completed,96,98,100,Yes
+1811,Grey,female,group B,associate's degree,standard,completed,64,66,72,Yes
+1812,Grey,female,group B,some high school,standard,none,44,65,59,Yes
+1813,Blue,female,group D,some college,standard,completed,81,99,96,Yes
+1814,Green,male,group B,high school,standard,completed,85,75,72,Yes
+1815,Brown,male,group E,associate's degree,standard,none,82,76,71,Yes
+1816,Orange,male,group B,associate's degree,standard,none,72,67,64,Yes
+1817,Grey,female,group C,master's degree,reduced,none,43,57,59,Yes
+1818,Brown,female,group B,some college,standard,none,58,69,63,Yes
+1819,Brown,male,group E,some college,reduced,completed,72,73,75,Yes
+1820,Yellow,male,group D,some college,standard,completed,80,67,72,Yes
+1821,Blue,male,group D,high school,standard,none,81,62,61,Yes
+1822,Purple,male,group E,some high school,reduced,none,66,60,59,Yes
+1823,Green,male,group B,associate's degree,standard,none,74,65,61,Yes
+1824,Red,male,group D,master's degree,free,completed,75,70,76,Yes
+1825,Red,male,group C,some college,standard,none,68,58,54,Yes
+1826,Grey,male,group D,some high school,reduced,none,67,63,63,Yes
+1827,Purple,male,group B,some college,standard,none,58,47,45,Yes
+1828,Yellow,male,group D,some college,standard,none,79,56,68,Yes
+1829,Red,male,group C,some high school,standard,none,63,63,63,Yes
+1830,Purple,female,group B,associate's degree,reduced,none,59,72,72,Yes
+1831,Purple,male,group C,bachelor's degree,reduced,none,47,53,42,Yes
+1832,Grey,male,group D,some college,reduced,completed,67,78,70,Yes
+1833,Red,male,group A,some college,standard,completed,92,86,88,Yes
+1834,Orange,male,group D,associate's degree,standard,none,44,45,41,Yes
+1835,Green,male,group C,master's degree,free,none,57,54,48,Yes
+1836,Purple,female,group D,bachelor's degree,standard,completed,83,100,100,Yes
+1837,Orange,female,group A,master's degree,standard,completed,68,76,76,Yes
+1838,Yellow,male,group B,associate's degree,standard,none,59,52,45,Yes
+1839,Yellow,female,group B,some high school,reduced,none,36,51,49,Yes
+1840,Yellow,male,group A,some college,standard,completed,56,51,44,Yes
+1841,Green,female,group E,high school,free,completed,80,94,97,Yes
+1842,Yellow,male,group C,some college,reduced,completed,62,72,67,Yes
+1843,Yellow,male,group D,some high school,standard,none,90,72,79,Yes
+1844,Grey,male,group A,associate's degree,standard,completed,55,62,58,Yes
+1845,Green,female,group C,bachelor's degree,free,completed,44,45,52,Yes
+1846,Green,male,group C,high school,standard,completed,72,63,66,Yes
+1847,Yellow,female,group E,high school,standard,none,92,94,94,Yes
+1848,Yellow,male,group B,high school,reduced,completed,73,68,71,Yes
+1849,Brown,female,group D,high school,standard,completed,75,74,75,Yes
+1850,Purple,male,group E,associate's degree,standard,completed,82,78,78,Yes
+1851,Purple,male,group C,some high school,standard,none,84,84,74,Yes
+1852,Yellow,male,group C,master's degree,standard,none,81,80,73,Yes
+1853,Blue,male,group A,some college,standard,none,82,68,63,Yes
+1854,Green,female,group C,master's degree,standard,completed,79,92,87,Yes
+1855,Green,female,group C,high school,standard,none,31,49,42,Yes
+1856,Purple,male,group E,some high school,standard,none,73,62,59,Yes
+1857,Purple,female,group E,some college,standard,none,89,93,98,Yes
+1858,Orange,male,group E,bachelor's degree,standard,completed,100,100,100,Yes
+1859,Grey,female,group D,associate's degree,reduced,completed,47,58,56,Yes
+1860,Brown,male,group E,some high school,standard,none,94,75,75,Yes
+1861,Yellow,male,group B,associate's degree,standard,completed,79,77,75,Yes
+1862,Brown,male,group C,high school,reduced,completed,77,80,74,Yes
+1863,Red,male,group D,some college,standard,none,63,60,53,Yes
+1864,Purple,male,group A,high school,standard,none,56,45,38,Yes
+1865,Grey,female,group B,associate's degree,reduced,completed,58,67,70,Yes
+1866,Orange,male,group C,some college,standard,completed,77,80,85,Yes
+1867,Blue,female,group E,some college,standard,completed,82,85,91,Yes
+1868,Yellow,female,group B,high school,reduced,none,51,69,64,Yes
+1869,Blue,male,group E,some high school,standard,none,92,80,78,Yes
+1870,Brown,female,group C,high school,standard,none,87,90,85,Yes
+1871,Orange,male,group E,associate's degree,standard,completed,88,78,86,Yes
+1872,Grey,female,group C,some college,standard,none,77,79,78,Yes
+1873,Orange,female,group E,some college,standard,none,62,65,65,Yes
+1874,Brown,male,group D,associate's degree,standard,none,61,56,56,Yes
+1875,Green,female,group C,associate's degree,free,none,65,66,66,Yes
+1876,Red,male,group E,master's degree,standard,completed,84,76,81,Yes
+1877,Brown,female,group D,some high school,reduced,none,30,59,51,Yes
+1878,Orange,male,group A,associate's degree,reduced,completed,63,61,64,Yes
+1879,Brown,female,group E,high school,standard,none,79,78,83,Yes
+1880,Yellow,female,group C,some college,standard,none,51,72,63,Yes
+1881,Green,female,group D,some college,standard,none,66,70,67,Yes
+1882,Purple,female,group D,associate's degree,standard,none,63,69,66,Yes
+1883,Brown,female,group D,associate's degree,reduced,none,71,78,81,Yes
+1884,Orange,female,group C,master's degree,standard,none,69,76,71,Yes
+1885,Yellow,female,group C,some college,reduced,none,70,81,76,Yes
+1886,Blue,male,group D,some high school,standard,none,67,59,59,Yes
+1887,Brown,female,group C,some high school,standard,none,53,48,49,Yes
+1888,Yellow,female,group B,bachelor's degree,reduced,none,50,62,62,Yes
+1889,Blue,female,group C,high school,standard,none,59,63,61,Yes
+1890,Green,female,group C,high school,free,completed,54,72,68,Yes
+1891,Grey,male,group E,some college,standard,none,81,72,70,Yes
+1892,Blue,male,group C,high school,standard,none,69,58,52,Yes
+1893,Red,male,group E,high school,standard,none,87,84,76,Yes
+1894,Orange,female,group B,bachelor's degree,standard,none,88,84,88,Yes
+1895,Yellow,female,group E,bachelor's degree,standard,none,52,53,55,Yes
+1896,Brown,female,group C,some high school,standard,none,60,61,57,Yes
+1897,Red,female,group D,some high school,standard,completed,77,83,84,Yes
+1898,Grey,male,group C,associate's degree,reduced,completed,47,49,49,Yes
+1899,Blue,male,group C,some college,standard,none,76,65,58,Yes
+1900,Blue,female,group B,some college,standard,completed,92,100,100,Yes
+1901,Brown,female,group E,some high school,standard,none,87,87,84,Yes
+1902,Purple,female,group D,high school,standard,none,74,82,81,Yes
+1903,Blue,male,group A,some high school,standard,completed,67,60,69,Yes
+1904,Green,male,group B,some college,free,none,56,47,48,Yes
+1905,Grey,female,group D,associate's degree,standard,none,84,92,90,Yes
+1906,Green,male,group B,associate's degree,standard,none,73,54,57,Yes
+1907,Brown,male,group D,master's degree,reduced,none,75,65,65,Yes
+1908,Orange,male,group D,high school,standard,completed,70,72,67,Yes
+1909,Grey,male,group C,high school,standard,none,79,72,72,Yes
+1910,Green,male,group C,bachelor's degree,standard,completed,86,77,80,Yes
+1911,Orange,female,group B,high school,standard,completed,77,83,91,Yes
+1912,Brown,male,group D,high school,reduced,completed,58,67,67,Yes
+1913,Red,male,group C,some college,free,completed,70,66,68,Yes
+1914,Purple,female,group D,master's degree,standard,none,69,67,78,Yes
+1915,Orange,male,group D,some college,standard,completed,94,97,95,Yes
+1916,Yellow,female,group E,some college,reduced,none,76,82,81,Yes
+1917,Brown,female,group C,high school,standard,none,71,72,69,Yes
+1918,Yellow,male,group C,associate's degree,standard,none,76,72,73,Yes
+1919,Brown,male,group D,bachelor's degree,reduced,none,85,78,81,Yes
+1920,Red,male,group C,some high school,standard,none,94,84,80,Yes
+1921,Orange,male,group E,master's degree,standard,none,91,82,74,Yes
+1922,Purple,male,group D,associate's degree,standard,completed,100,100,98,Yes
+1923,Yellow,male,group B,high school,standard,none,65,66,61,Yes
+1924,Blue,female,group D,bachelor's degree,free,none,68,79,78,Yes
+1925,Red,male,group C,high school,free,none,59,60,56,Yes
+1926,Purple,female,group B,bachelor's degree,standard,none,73,87,89,Yes
+1927,Orange,male,group B,some college,free,completed,76,83,78,Yes
+1928,Grey,female,group C,some high school,standard,none,86,92,83,Yes
+1929,Orange,female,group C,associate's degree,standard,completed,75,74,80,Yes
+1930,Orange,male,group D,some high school,standard,none,68,53,53,Yes
+1931,Grey,female,group D,high school,reduced,none,68,73,71,Yes
+1932,Green,male,group D,some college,standard,none,59,62,52,Yes
+1933,Blue,male,group B,bachelor's degree,standard,none,84,80,77,Yes
+1934,Brown,male,group D,some college,reduced,none,67,58,58,Yes
+1935,Green,male,group C,associate's degree,free,none,59,64,60,Yes
+1936,Orange,male,group C,bachelor's degree,free,none,58,66,67,Yes
+1937,Grey,male,group D,associate's degree,standard,none,72,62,60,Yes
+1938,Yellow,female,group A,associate's degree,standard,none,61,65,59,Yes
+1939,Orange,female,group B,some high school,free,none,55,70,60,Yes
+1940,Purple,female,group D,bachelor's degree,standard,none,41,51,53,Yes
+1941,Red,female,group D,some college,free,none,36,45,44,Yes
+1942,Green,male,group E,associate's degree,standard,completed,84,75,75,Yes
+1943,Red,male,group E,associate's degree,free,none,57,45,42,Yes
+1944,Green,female,group C,associate's degree,standard,none,81,96,93,Yes
+1945,Red,male,group A,some high school,standard,none,59,60,50,Yes
+1946,Brown,male,group D,some college,reduced,none,66,56,56,Yes
+1947,Red,male,group C,some college,free,completed,65,62,63,Yes
+1948,Brown,female,group C,associate's degree,standard,none,65,85,80,Yes
+1949,Purple,female,group A,some high school,reduced,completed,53,77,75,Yes
+1950,Blue,male,group B,some high school,standard,none,79,69,70,Yes
+1951,Brown,female,group C,associate's degree,standard,completed,89,86,92,Yes
+1952,Grey,female,group E,high school,reduced,none,85,91,88,Yes
+1953,Grey,female,group C,some college,standard,none,79,93,81,Yes
+1954,Grey,female,group B,associate's degree,standard,completed,83,96,96,Yes
+1955,Blue,female,group E,some high school,free,none,62,71,61,Yes
+1956,Blue,female,group E,some college,standard,none,64,68,60,Yes
+1957,Green,female,group E,bachelor's degree,standard,none,66,65,76,Yes
+1958,Yellow,female,group B,some high school,reduced,none,36,52,51,Yes
+1959,Brown,female,group C,some high school,standard,none,74,77,72,Yes
+1960,Orange,female,group B,bachelor's degree,standard,completed,85,96,95,Yes
+1961,Orange,female,group C,high school,standard,completed,44,69,68,Yes
+1962,Green,female,group E,some college,standard,completed,68,78,77,Yes
+1963,Red,female,group C,some college,standard,completed,59,66,71,Yes
+1964,Red,male,group B,high school,standard,none,64,57,52,Yes
+1965,Grey,female,group C,some college,reduced,none,62,74,74,Yes
+1966,Yellow,male,group C,master's degree,reduced,none,45,53,45,Yes
+1967,Grey,male,group D,high school,standard,none,85,81,83,Yes
+1968,Orange,male,group C,some high school,standard,none,45,48,46,Yes
+1969,Blue,male,group B,associate's degree,standard,none,81,66,58,Yes
+1970,Yellow,male,group C,high school,standard,none,65,70,57,Yes
+1971,Brown,female,group C,high school,reduced,none,48,60,55,Yes
+1972,Yellow,female,group C,high school,standard,none,59,66,69,Yes
+1973,Blue,female,group C,some college,standard,completed,80,88,90,Yes
+1974,Green,female,group A,bachelor's degree,standard,completed,66,80,75,Yes
+1975,Brown,female,group B,bachelor's degree,standard,completed,80,93,99,Yes
+1976,Orange,male,group E,some high school,free,none,47,54,48,Yes
+1977,Red,female,group B,high school,standard,none,74,90,83,Yes
+1978,Orange,male,group B,bachelor's degree,free,none,55,59,49,Yes
+1979,Purple,male,group D,associate's degree,standard,none,100,93,89,Yes
+1980,Green,male,group C,some high school,standard,none,83,84,78,Yes
+1981,Brown,male,group C,associate's degree,standard,none,76,74,67,Yes
+1982,Blue,male,group E,some high school,standard,completed,87,83,80,Yes
+1983,Blue,male,group C,some high school,standard,none,28,27,23,Yes
+1984,Brown,male,group D,some high school,standard,completed,76,78,79,Yes
+1985,Blue,female,group E,bachelor's degree,standard,none,86,87,90,Yes
+1986,Purple,female,group A,bachelor's degree,reduced,none,65,64,73,Yes
+1987,Yellow,male,group D,master's degree,standard,none,88,72,78,Yes
+1988,Green,female,group D,master's degree,standard,completed,87,95,100,Yes
+1989,Brown,male,group D,some high school,standard,none,51,53,45,Yes
+1990,Blue,male,group D,associate's degree,standard,completed,67,62,67,Yes
+1991,Brown,female,group C,some high school,standard,none,70,77,76,Yes
+1992,Green,female,group A,associate's degree,standard,none,72,77,77,Yes
+1993,Red,male,group A,associate's degree,free,completed,75,67,67,Yes
+1994,Red,male,group D,some high school,standard,none,83,74,80,Yes
+1995,Yellow,female,group B,associate's degree,standard,none,82,97,90,Yes
+1996,Blue,male,group C,some college,standard,none,77,77,71,Yes
+1997,Orange,male,group C,some college,standard,none,80,66,66,Yes
+1998,Orange,female,group A,high school,standard,completed,67,86,86,Yes
+1999,Brown,male,group E,high school,standard,none,80,72,62,Yes
+2000,Blue,male,group D,high school,standard,none,58,47,45,Yes
+2001,Green,female,group E,associate's degree,standard,none,80,79,71,Yes
+2002,Grey,male,group D,associate's degree,standard,none,90,87,86,Yes
+2003,Blue,female,group B,associate's degree,standard,completed,80,81,85,Yes
+2004,Green,female,group D,associate's degree,free,none,68,76,79,Yes
+1033,Green,female,group B,high school,free,completed,69,78,75,Yes
+1034,Orange,female,group D,master's degree,free,none,32,35,37,Yes
+2007,Blue,female,group C,associate's degree,standard,none,69,82,78,Yes
+2008,Blue,male,group D,high school,free,completed,38,38,41,Yes
+1777,Grey,male,group A,high school,reduced,none,70,74,65,Yes
+2010,Yellow,female,group E,some high school,reduced,completed,42,59,59,Yes
+2011,Red,female,group A,some high school,free,none,47,58,54,Yes
+2012,Blue,female,group B,bachelor's degree,free,completed,49,57,61,Yes
+1781,Grey,male,group E,some college,standard,completed,90,93,91,Yes
+1782,Red,male,group D,associate's degree,free,none,49,54,50,Yes
+2015,Blue,male,group D,master's degree,free,none,83,86,87,Yes
+2016,Yellow,male,group C,associate's degree,reduced,none,82,86,78,Yes
+2017,Blue,female,group C,some college,standard,completed,81,90,93,Yes
+2018,Grey,male,group E,high school,standard,completed,84,79,75,Yes
+2019,Blue,male,group D,some high school,standard,none,55,50,47,Yes
+2020,Green,male,group C,high school,free,completed,54,53,51,Yes
+2021,Purple,female,group B,associate's degree,standard,completed,83,96,96,Yes
+2022,Yellow,female,group E,some high school,reduced,none,62,71,61,Yes
+2023,Red,female,group E,some college,standard,none,64,68,60,Yes
+1957,Green,female,group E,bachelor's degree,standard,none,66,65,76,Yes
